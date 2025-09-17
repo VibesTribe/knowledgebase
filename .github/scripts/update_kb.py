@@ -1,3 +1,5 @@
+print(">>> DEBUG: Script is running the NEW version <<<")
+
 import os, requests
 
 ACCESS_TOKEN = os.getenv("RAINDROP_ACCESS_TOKEN")
