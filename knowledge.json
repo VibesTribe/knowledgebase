@@ -1,10 +1,260 @@
 [
   {
     "id": 1346213185,
-    "title": "Integrations — Raindrop.io",
+    "title": "Integrations \u2014 Raindrop.io",
     "link": "https://raindrop.io/integrations",
     "created": "2025-09-16T19:20:49.000Z",
     "collection": "vibeflow",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1347582348,
+    "title": "Forget Codex vs. Claude: This is What Build Teams REALLY Need to Ask",
+    "link": "https://www.youtube.com/watch?v=cVZCfpkHNBg",
+    "created": "2025-09-17T17:32:54.281Z",
+    "collection": "59987356",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1347403998,
+    "title": "agent-builder v0.0.2 - Agent Details | Codebuff",
+    "link": "https://www.codebuff.com/publishers/codebuff/agents/agent-builder/0.0.2",
+    "created": "2025-09-17T15:56:48.951Z",
+    "collection": "59987361",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1347403875,
+    "title": "base-lite v0.0.17 - Agent Details | Codebuff",
+    "link": "https://www.codebuff.com/publishers/codebuff/agents/base-lite/0.0.17",
+    "created": "2025-09-17T15:56:34.534Z",
+    "collection": "59987361",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1347403672,
+    "title": "Codebuff",
+    "link": "https://www.codebuff.com/store",
+    "created": "2025-09-17T15:56:21.373Z",
+    "collection": "59987361",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1347388475,
+    "title": "CodebuffAI/codebuff: Generate code from the terminal!",
+    "link": "https://github.com/CodebuffAI/codebuff",
+    "created": "2025-09-17T15:36:49.852Z",
+    "collection": "59987356",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1347361895,
+    "title": "Codebuff Goes Open Source, A Conversation Between Founders",
+    "link": "https://www.youtube.com/watch?v=udAWzGDyzRA",
+    "created": "2025-09-17T15:26:08.952Z",
+    "collection": "59987356",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1347346870,
+    "title": "npm: @codebuff/sdk",
+    "link": "https://www.npmjs.com/package/@codebuff/sdk?activeTab=code",
+    "created": "2025-09-17T15:21:48.698Z",
+    "collection": "59987356",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1347345501,
+    "title": "npm | Products",
+    "link": "https://www.npmjs.com/products",
+    "created": "2025-09-17T15:20:31.691Z",
+    "collection": "59987356",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1347343834,
+    "title": "npm: @codebuff/sdk",
+    "link": "https://www.npmjs.com/package/@codebuff/sdk",
+    "created": "2025-09-17T15:20:22.045Z",
+    "collection": "59987356",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1346927104,
+    "title": "Why language models hallucinate",
+    "link": "https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf",
+    "created": "2025-09-17T03:46:10.793Z",
+    "collection": "59987356",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1346926747,
+    "title": "Defeating Nondeterminism in LLM Inference",
+    "link": "https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/",
+    "created": "2025-09-17T03:44:13.843Z",
+    "collection": "59987361",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1346926599,
+    "title": "Ex-OpenAI CTO Reveals Plan to Fix LLMs Biggest Problem",
+    "link": "https://www.youtube.com/watch?v=CZeEAgE5xGA",
+    "created": "2025-09-17T03:43:28.386Z",
+    "collection": "59987361",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1346842881,
+    "title": "Google's NEW Agent Money Protocol",
+    "link": "https://www.youtube.com/watch?v=1bIVaODEbTo",
+    "created": "2025-09-17T01:39:59.049Z",
+    "collection": "-1",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1346841943,
+    "title": "GPT 5 Codex is a BEAST Autonomous Coding Agent",
+    "link": "https://www.youtube.com/watch?v=RLj9gKsGlzo",
+    "created": "2025-09-17T01:39:01.929Z",
+    "collection": "-1",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1346840761,
+    "title": "n8n API Pagination Solved in Minutes",
+    "link": "https://www.youtube.com/watch?v=7vzSP5cwJ4Q",
+    "created": "2025-09-17T01:37:35.116Z",
+    "collection": "59987356",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1346840442,
+    "title": "GPT-5-Codex and the Year of Agentic Coding",
+    "link": "https://www.youtube.com/watch?v=B-uiK-zid_A",
+    "created": "2025-09-17T01:36:58.343Z",
+    "collection": "-1",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1346838872,
+    "title": "Onigiri - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Onigiri",
+    "created": "2025-09-17T01:34:34.335Z",
+    "collection": "59987368",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1346821021,
+    "title": "How to create an AI Influencer (Nano Banana, HeyGen, Midjourney)",
+    "link": "https://www.youtube.com/watch?v=6g_f2XxwSRA",
+    "created": "2025-09-17T00:50:05.033Z",
+    "collection": "-1",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1346801430,
+    "title": "This Framework Finally Makes Agent Swarms Work",
+    "link": "https://www.youtube.com/watch?v=BG9hXrMoZEU",
+    "created": "2025-09-16T23:52:07.879Z",
+    "collection": "59987361",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1346801125,
+    "title": "The Top AI Tool for Devs Isn't GitHub Copilot, New Report Finds",
+    "link": "https://thenewstack.io/the-top-ai-tool-for-devs-isnt-github-copilot-new-report-finds/",
+    "created": "2025-09-16T23:51:31.567Z",
+    "collection": "-1",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1346800707,
+    "title": "superagent-ai/vibekit: Run Claude Code, Gemini, Codex \u2014 or any coding agent \u2014 in a clean, isolated sandbox with sensitive data redaction and observability baked in.",
+    "link": "https://github.com/superagent-ai/vibekit",
+    "created": "2025-09-16T23:49:59.755Z",
+    "collection": "59987361",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1346799811,
+    "title": "foorilla/allainews_sources: A list of online news & info sources in the AI/ML/Data Science space",
+    "link": "https://github.com/foorilla/allainews_sources#ai-ml-big-data-videos",
+    "created": "2025-09-16T23:47:56.441Z",
+    "collection": "-1",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1346798876,
+    "title": "vibe-coding \u00b7 GitHub Topics",
+    "link": "https://github.com/topics/vibe-coding",
+    "created": "2025-09-16T23:46:36.364Z",
+    "collection": "-1",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1346795013,
+    "title": "activepieces/activepieces: AI Agents & MCPs & AI Workflow Automation \u2022 (~400 MCP servers for AI agents) \u2022 AI Automation / AI Agent with MCPs \u2022 AI Workflows & AI Agents \u2022 MCPs for AI Agents",
+    "link": "https://github.com/activepieces/activepieces",
+    "created": "2025-09-16T23:34:41.517Z",
+    "collection": "-1",
+    "tags": [],
+    "summary": null,
+    "enriched": false
+  },
+  {
+    "id": 1346692083,
+    "title": "What Vibe Coders Wish They Knew Sooner",
+    "link": "https://www.youtube.com/watch?v=Vpjej6aXXIU",
+    "created": "2025-09-16T23:00:04.049Z",
+    "collection": "-1",
     "tags": [],
     "summary": null,
     "enriched": false
