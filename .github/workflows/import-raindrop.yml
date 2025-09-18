@@ -1,18 +1,16 @@
-name: Import Raindrop Exports
+name: Import Raindrop Exports (HTML Only)
 
 on:
-  workflow_dispatch:       # allow manual run
+  workflow_dispatch:
   push:
     paths:
       - "*.html"
-      - "*.txt"
-      - "*.csv"
 
 permissions:
   contents: write
 
 jobs:
-  import-raindrop:
+  import-raindrop-html:
     runs-on: ubuntu-latest
 
     steps:
@@ -28,14 +26,17 @@ jobs:
         run: |
           pip install beautifulsoup4
 
-      - name: Run import script
+      - name: Run import-html script
+        env:
+          CLEANUP: "false"   # change to "true" if you want exports auto-deleted
         run: |
-          python .github/scripts/import_raindrop_any.py
+          python .github/scripts/import_raindrop_html.py
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add knowledge.json || true
-          git diff --cached --quiet || git commit -m "Imported Raindrop export(s): $(date -u)"
+          git diff --cached --quiet || git commit -m "Imported Raindrop export(s) (HTML): $(date -u)"
+          git pull --rebase origin main
           git push
