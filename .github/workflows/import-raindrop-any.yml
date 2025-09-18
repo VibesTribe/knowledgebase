@@ -1,0 +1,41 @@
+name: Import Raindrop Exports (Any Format)
+
+on:
+  workflow_dispatch:       # manual run only at first
+  push:
+    paths:
+      - "*.html"
+      - "*.txt"
+      - "*.csv"
+
+permissions:
+  contents: write
+
+jobs:
+  import-raindrop-any:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install beautifulsoup4
+
+      - name: Run import-any script
+        run: |
+          python .github/scripts/import_raindrop_any.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add knowledge.json || true
+          git diff --cached --quiet || git commit -m "Imported Raindrop export(s) (any format): $(date -u)"
+          git push
