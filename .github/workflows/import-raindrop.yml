@@ -1,7 +1,7 @@
 name: Import Raindrop Exports
 
 on:
-  workflow_dispatch:       # manual run
+  workflow_dispatch:       # allow manual run
   push:
     paths:
       - "*.html"
