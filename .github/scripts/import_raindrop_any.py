@@ -1,103 +1,96 @@
-import os
-import json
-import csv
+import os, json, csv
 from bs4 import BeautifulSoup
-from datetime import datetime
 
-def parse_html(file_path, collection):
-    with open(file_path, "r", encoding="utf-8") as f:
+KB_FILE = "knowledge.json"
+
+def load_kb():
+    if os.path.exists(KB_FILE):
+        with open(KB_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {"bookmarks": []}
+
+def save_kb(kb):
+    with open(KB_FILE, "w", encoding="utf-8") as f:
+        json.dump(kb, f, indent=2, ensure_ascii=False)
+
+def parse_html(path):
+    bookmarks = []
+    with open(path, "r", encoding="utf-8") as f:
         soup = BeautifulSoup(f, "html.parser")
-
-    bookmarks = []
-    for link in soup.find_all("a"):
-        title = link.get_text(strip=True)
-        url = link.get("href")
-        add_date = link.get("add_date", None)
-
-        bookmarks.append({
-            "id": hash(url),
-            "title": title,
-            "link": url,
-            "created": datetime.utcfromtimestamp(int(add_date)).isoformat() if add_date else "",
-            "collection": collection,
-            "tags": [],
-            "summary": None,
-            "enriched": False
-        })
-    return bookmarks
-
-def parse_txt(file_path, collection):
-    bookmarks = []
-    with open(file_path, "r", encoding="utf-8") as f:
-        for line in f:
-            parts = line.strip().split(" ", 1)
-            if len(parts) == 2:
-                url, title = parts
-            else:
-                url, title = parts[0], ""
+        for a in soup.find_all("a"):
             bookmarks.append({
-                "id": hash(url),
-                "title": title,
-                "link": url,
-                "created": "",
-                "collection": collection,
+                "title": a.get_text(strip=True),
+                "link": a.get("href"),
                 "tags": [],
-                "summary": None,
-                "enriched": False
+                "source_file": os.path.basename(path)
             })
     return bookmarks
 
-def parse_csv(file_path, collection):
+def parse_txt(path):
     bookmarks = []
-    with open(file_path, "r", encoding="utf-8") as f:
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                bookmarks.append({
+                    "title": line,
+                    "link": line if line.startswith("http") else None,
+                    "tags": [],
+                    "source_file": os.path.basename(path)
+                })
+    return bookmarks
+
+def parse_csv(path):
+    bookmarks = []
+    with open(path, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
-            url = row.get("URL") or row.get("Link") or ""
-            title = row.get("Title") or ""
-            created = row.get("Created") or ""
             bookmarks.append({
-                "id": hash(url),
-                "title": title,
-                "link": url,
-                "created": created,
-                "collection": collection,
-                "tags": [],
-                "summary": None,
-                "enriched": False
+                "title": row.get("Title") or row.get("title") or "",
+                "link": row.get("URL") or row.get("url") or row.get("Link"),
+                "tags": row.get("Tags", "").split(",") if "Tags" in row else [],
+                "source_file": os.path.basename(path)
             })
     return bookmarks
 
-def merge_into_kb(new_entries, kb_file="knowledge.json"):
-    try:
-        with open(kb_file, "r", encoding="utf-8") as f:
-            kb = json.load(f)
-    except FileNotFoundError:
-        kb = []
-
-    seen = {entry["id"] for entry in kb}
-    merged = kb[:]
-
-    for entry in new_entries:
-        if entry["id"] not in seen:
-            merged.append(entry)
-
-    with open(kb_file, "w", encoding="utf-8") as f:
-        json.dump(merged, f, indent=2)
-
-    print(f"Imported {len(new_entries)} entries, KB now has {len(merged)} total")
-
 if __name__ == "__main__":
-    all_entries = []
+    kb = load_kb()
+    all_bookmarks = { (b["title"], b["link"]) for b in kb["bookmarks"] }
+
+    total_imported = 0
+    files_deleted = 0
 
     for file in os.listdir("."):
-        if file.lower().endswith(".html"):
-            all_entries.extend(parse_html(file, os.path.splitext(file)[0]))
-        elif file.lower().endswith(".txt"):
-            all_entries.extend(parse_txt(file, os.path.splitext(file)[0]))
-        elif file.lower().endswith(".csv"):
-            all_entries.extend(parse_csv(file, os.path.splitext(file)[0]))
+        if file.endswith((".html", ".txt", ".csv")):
+            print(f"Processing {file}...")
+            if file.endswith(".html"):
+                new_entries = parse_html(file)
+            elif file.endswith(".txt"):
+                new_entries = parse_txt(file)
+            else:
+                new_entries = parse_csv(file)
 
-    if not all_entries:
-        print("⚠️ No supported files found in repo root")
-    else:
-        merge_into_kb(all_entries)
+            imported = 0
+            for b in new_entries:
+                key = (b["title"], b["link"])
+                if key not in all_bookmarks:
+                    kb["bookmarks"].append(b)
+                    all_bookmarks.add(key)
+                    imported += 1
+
+            total_imported += imported
+            print(f"  → Imported {imported} new entries from {file}")
+
+            # Optional cleanup
+            if os.getenv("CLEANUP", "false").lower() == "true":
+                os.remove(file)
+                files_deleted += 1
+                print(f"  → Deleted {file} after import")
+
+    save_kb(kb)
+
+    print("\n===== Import Summary =====")
+    print(f"New entries imported: {total_imported}")
+    print(f"Total bookmarks in knowledge.json: {len(kb['bookmarks'])}")
+    print(f"Files deleted (CLEANUP=true): {files_deleted}")
+    print("==========================\n")
