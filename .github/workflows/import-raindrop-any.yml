@@ -1,7 +1,7 @@
 name: Import Raindrop Exports (Any Format)
 
 on:
-  workflow_dispatch:       # manual run only at first
+  workflow_dispatch:       # manual run
   push:
     paths:
       - "*.html"
@@ -29,6 +29,8 @@ jobs:
           pip install beautifulsoup4
 
       - name: Run import-any script
+        env:
+          CLEANUP: "false"   # change to "true" to auto-delete processed files
         run: |
           python .github/scripts/import_raindrop_any.py
 
