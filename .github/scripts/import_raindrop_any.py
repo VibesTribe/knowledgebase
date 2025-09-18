@@ -6,7 +6,17 @@ KB_FILE = "knowledge.json"
 def load_kb():
     if os.path.exists(KB_FILE):
         with open(KB_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
+            try:
+                data = json.load(f)
+                # Ensure proper shape
+                if isinstance(data, dict) and "bookmarks" in data and isinstance(data["bookmarks"], list):
+                    return data
+                elif isinstance(data, list):
+                    return {"bookmarks": data}
+                else:
+                    return {"bookmarks": []}
+            except json.JSONDecodeError:
+                return {"bookmarks": []}
     return {"bookmarks": []}
 
 def save_kb(kb):
@@ -81,7 +91,6 @@ if __name__ == "__main__":
             total_imported += imported
             print(f"  → Imported {imported} new entries from {file}")
 
-            # Optional cleanup
             if os.getenv("CLEANUP", "false").lower() == "true":
                 os.remove(file)
                 files_deleted += 1
