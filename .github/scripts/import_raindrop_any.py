@@ -28,12 +28,14 @@ def parse_html(path):
     with open(path, "r", encoding="utf-8") as f:
         soup = BeautifulSoup(f, "html.parser")
         for a in soup.find_all("a"):
-            bookmarks.append({
-                "title": a.get_text(strip=True),
-                "link": a.get("href"),
-                "tags": [],
-                "source_file": os.path.basename(path)
-            })
+            link = a.get("href")
+            if link and link.startswith("http"):
+                bookmarks.append({
+                    "title": a.get_text(strip=True) or link,
+                    "link": link,
+                    "tags": [],
+                    "source_file": os.path.basename(path)
+                })
     return bookmarks
 
 def parse_txt(path):
@@ -41,10 +43,10 @@ def parse_txt(path):
     with open(path, "r", encoding="utf-8") as f:
         for line in f:
             line = line.strip()
-            if line:
+            if line.startswith("http"):   # only keep valid URLs
                 bookmarks.append({
-                    "title": line,
-                    "link": line if line.startswith("http") else None,
+                    "title": line,   # fallback title is URL
+                    "link": line,
                     "tags": [],
                     "source_file": os.path.basename(path)
                 })
@@ -55,17 +57,21 @@ def parse_csv(path):
     with open(path, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
-            bookmarks.append({
-                "title": row.get("Title") or row.get("title") or "",
-                "link": row.get("URL") or row.get("url") or row.get("Link"),
-                "tags": row.get("Tags", "").split(",") if "Tags" in row else [],
-                "source_file": os.path.basename(path)
-            })
+            link = row.get("URL") or row.get("url") or row.get("Link")
+            if link and link.startswith("http"):
+                bookmarks.append({
+                    "title": row.get("Title") or row.get("title") or link,
+                    "link": link,
+                    "tags": row.get("Tags", "").split(",") if "Tags" in row else [],
+                    "source_file": os.path.basename(path)
+                })
     return bookmarks
 
 if __name__ == "__main__":
     kb = load_kb()
-    all_bookmarks = { (b["title"], b["link"]) for b in kb["bookmarks"] }
+
+    # Deduplication: by link only
+    all_links = { b["link"] for b in kb["bookmarks"] if b.get("link") }
 
     total_imported = 0
     files_deleted = 0
@@ -82,10 +88,10 @@ if __name__ == "__main__":
 
             imported = 0
             for b in new_entries:
-                key = (b["title"], b["link"])
-                if key not in all_bookmarks:
+                link = b.get("link")
+                if link and link not in all_links:
                     kb["bookmarks"].append(b)
-                    all_bookmarks.add(key)
+                    all_links.add(link)
                     imported += 1
 
             total_imported += imported
