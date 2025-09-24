@@ -476,6 +476,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-08-26T00:28:12Z",
       "ingestedAt": "2025-09-24T21:33:59.198Z"
+    },
+    {
+      "id": "youtube:video:OhD-YL1Ml2k",
+      "title": "🚀 Deploy AI Agents: GCP Cloud Run",
+      "url": "https://www.youtube.com/watch?v=OhD-YL1Ml2k",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-08-26T03:46:11Z",
+      "ingestedAt": "2025-09-24T21:33:59.813Z"
     }
   ]
 }
