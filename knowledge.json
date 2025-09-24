@@ -5408,6 +5408,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-11-29T20:03:14Z",
       "ingestedAt": "2025-09-24T21:39:56.921Z"
+    },
+    {
+      "id": "youtube:video:kDvbiQ7_Unc",
+      "title": "GPT-4-Vision: Convert Screenshots to Code Instantly",
+      "url": "https://www.youtube.com/watch?v=kDvbiQ7_Unc",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-11-27T19:34:36Z",
+      "ingestedAt": "2025-09-24T21:39:57.586Z"
     }
   ]
 }
