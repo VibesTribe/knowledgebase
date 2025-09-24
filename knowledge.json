@@ -1871,6 +1871,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-04-03T05:27:35Z",
       "ingestedAt": "2025-09-24T21:35:42.514Z"
+    },
+    {
+      "id": "youtube:video:Aw2JqyshNsg",
+      "title": "The ONLY Supabase MCP Server you'll ever need for vibe coding. Cursor vs Windsurf (Windows & Mac)",
+      "url": "https://www.youtube.com/watch?v=Aw2JqyshNsg",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-04-03T05:27:21Z",
+      "ingestedAt": "2025-09-24T21:35:43.194Z"
     }
   ]
 }
