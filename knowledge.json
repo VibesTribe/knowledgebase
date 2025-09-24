@@ -4337,6 +4337,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-13T03:13:09Z",
       "ingestedAt": "2025-09-24T21:38:41.354Z"
+    },
+    {
+      "id": "youtube:video:w4ERVqyMNcI",
+      "title": "Ollama UI - Your NEW Go-To Local LLM",
+      "url": "https://www.youtube.com/watch?v=w4ERVqyMNcI",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-11T17:19:38Z",
+      "ingestedAt": "2025-09-24T21:38:41.959Z"
     }
   ]
 }
