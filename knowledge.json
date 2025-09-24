@@ -5,7 +5,10 @@
       "title": "Demo item",
       "url": "https://example.com",
       "sourceType": "demo",
-      "ingestedAt": "2025-09-24T20:14:18.681Z"
+      "ingestedAt": "2025-09-24T20:14:18.681Z",
+      "summary": "Auto-summary for \"Demo item\"",
+      "description": "Generated description.",
+      "enrichedAt": "2025-09-24T20:14:19.480Z"
     }
   ]
 }
