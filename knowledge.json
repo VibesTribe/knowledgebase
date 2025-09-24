@@ -1700,6 +1700,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-04-09T14:15:27Z",
       "ingestedAt": "2025-09-24T21:35:30.322Z"
+    },
+    {
+      "id": "youtube:video:JbhiLUY_V2U",
+      "title": "Better Than Vibe Coding: Agile AI Driven Development for Complex Apps",
+      "url": "https://www.youtube.com/watch?v=JbhiLUY_V2U",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-04-09T03:33:32Z",
+      "ingestedAt": "2025-09-24T21:35:30.932Z"
     }
   ]
 }
