@@ -1025,6 +1025,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-08-31T15:54:34Z",
       "ingestedAt": "2025-09-24T21:34:39.158Z"
+    },
+    {
+      "id": "youtube:video:pG5xMfkeMtg",
+      "title": "New course with Neo4j! Enroll in Agentic Knowledge Graph Construction",
+      "url": "https://www.youtube.com/watch?v=pG5xMfkeMtg",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-08-30T23:15:28Z",
+      "ingestedAt": "2025-09-24T21:34:39.783Z"
     }
   ]
 }
