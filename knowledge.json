@@ -323,6 +323,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-08-20T17:24:32Z",
       "ingestedAt": "2025-09-24T21:33:48.429Z"
+    },
+    {
+      "id": "youtube:video:GWdQEDfuz_k",
+      "title": "Why Your AI Coding Is Failing (And How to Fix It)",
+      "url": "https://www.youtube.com/watch?v=GWdQEDfuz_k",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-08-20T19:26:00Z",
+      "ingestedAt": "2025-09-24T21:33:49.179Z"
     }
   ]
 }
