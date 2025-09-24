@@ -2060,6 +2060,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-03-12T15:52:25Z",
       "ingestedAt": "2025-09-24T21:35:56.172Z"
+    },
+    {
+      "id": "youtube:video:RyZVqne9HWA",
+      "title": "MCP is awesome and here is why.",
+      "url": "https://www.youtube.com/watch?v=RyZVqne9HWA",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-03-11T15:26:33Z",
+      "ingestedAt": "2025-09-24T21:35:56.817Z"
     }
   ]
 }
