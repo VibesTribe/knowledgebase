@@ -521,6 +521,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-08-27T03:26:58Z",
       "ingestedAt": "2025-09-24T21:34:02.383Z"
+    },
+    {
+      "id": "youtube:video:XwWCFINXIoU",
+      "title": "Stop Wasting Time: Turn AI Prompts and Context Into Production Code",
+      "url": "https://www.youtube.com/watch?v=XwWCFINXIoU",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-08-27T16:17:05Z",
+      "ingestedAt": "2025-09-24T21:34:03.064Z"
     }
   ]
 }
