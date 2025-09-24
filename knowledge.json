@@ -89,6 +89,15 @@
       "collectionId": "59987361",
       "createdAt": "2025-09-21T19:34:36.369Z",
       "ingestedAt": "2025-09-24T21:33:31.974Z"
+    },
+    {
+      "id": "raindrop:1352636023",
+      "title": "What’s The Secret Behind Claude Code? I Rebuilt it to find out…",
+      "url": "https://www.youtube.com/watch?v=VziscdcEQuI",
+      "sourceType": "raindrop",
+      "collectionId": "59987361",
+      "createdAt": "2025-09-21T19:29:54.104Z",
+      "ingestedAt": "2025-09-24T21:33:32.600Z"
     }
   ]
 }
