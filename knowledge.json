@@ -3284,6 +3284,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-09-29T02:37:07Z",
       "ingestedAt": "2025-09-24T21:37:26.677Z"
+    },
+    {
+      "id": "youtube:video:fz1RduhHeks",
+      "title": "*LIVE BUILD* Personalized Outreach AI Agent in n8n (No Code)",
+      "url": "https://www.youtube.com/watch?v=fz1RduhHeks",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-09-29T02:36:52Z",
+      "ingestedAt": "2025-09-24T21:37:27.365Z"
     }
   ]
 }
