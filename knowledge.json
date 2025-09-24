@@ -3581,6 +3581,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-08-10T21:08:50Z",
       "ingestedAt": "2025-09-24T21:37:47.239Z"
+    },
+    {
+      "id": "youtube:video:Wgrc3y97i9w",
+      "title": "How I made AI Agents do my work for me – Agency Swarm",
+      "url": "https://www.youtube.com/watch?v=Wgrc3y97i9w",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-08-10T00:35:46Z",
+      "ingestedAt": "2025-09-24T21:37:47.878Z"
     }
   ]
 }
