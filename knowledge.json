@@ -1349,6 +1349,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-07-27T20:21:41Z",
       "ingestedAt": "2025-09-24T21:35:03.999Z"
+    },
+    {
+      "id": "youtube:video:Mk87sFlUG28",
+      "title": "Context Engineering 101 - The Simple Strategy to 100x AI Coding",
+      "url": "https://www.youtube.com/watch?v=Mk87sFlUG28",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-07-26T23:07:53Z",
+      "ingestedAt": "2025-09-24T21:35:04.596Z"
     }
   ]
 }
