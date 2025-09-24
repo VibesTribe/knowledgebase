@@ -3149,6 +3149,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-10-08T14:07:52Z",
       "ingestedAt": "2025-09-24T21:37:16.138Z"
+    },
+    {
+      "id": "youtube:video:r1lJ3_oWrhU",
+      "title": "\"Training\" an AI Agent for ONE Specific TASK with OpenAI-o1 API",
+      "url": "https://www.youtube.com/watch?v=r1lJ3_oWrhU",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-10-08T01:22:50Z",
+      "ingestedAt": "2025-09-24T21:37:16.785Z"
     }
   ]
 }
