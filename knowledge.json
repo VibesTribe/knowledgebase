@@ -6056,6 +6056,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-10-03T14:21:03Z",
       "ingestedAt": "2025-09-24T21:40:44.091Z"
+    },
+    {
+      "id": "youtube:video:LtX5ufl1r2U",
+      "title": "AI powered Discord bot with custom knowledge",
+      "url": "https://www.youtube.com/watch?v=LtX5ufl1r2U",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-10-02T20:42:48Z",
+      "ingestedAt": "2025-09-24T21:40:44.857Z"
     }
   ]
 }
