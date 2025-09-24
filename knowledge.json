@@ -2996,6 +2996,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-10-15T15:44:43Z",
       "ingestedAt": "2025-09-24T21:37:04.820Z"
+    },
+    {
+      "id": "youtube:video:z5U843Ob8xw",
+      "title": "How to Build a SaaS Factory - Ship 10x Faster",
+      "url": "https://www.youtube.com/watch?v=z5U843Ob8xw",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-10-15T14:37:39Z",
+      "ingestedAt": "2025-09-24T21:37:05.489Z"
     }
   ]
 }
