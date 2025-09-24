@@ -5741,6 +5741,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-10-31T03:38:55Z",
       "ingestedAt": "2025-09-24T21:40:21.704Z"
+    },
+    {
+      "id": "youtube:video:FwGEtETa75A",
+      "title": "Memwalker advanced tree retrieval without VectorDB Python code inspired by the paper",
+      "url": "https://www.youtube.com/watch?v=FwGEtETa75A",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-10-30T03:21:56Z",
+      "ingestedAt": "2025-09-24T21:40:22.286Z"
     }
   ]
 }
