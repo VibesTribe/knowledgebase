@@ -4184,6 +4184,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-19T00:49:14Z",
       "ingestedAt": "2025-09-24T21:38:30.477Z"
+    },
+    {
+      "id": "youtube:video:w29wPOEHedQ",
+      "title": "AutoGroq beta v6 : Now, we can add skills to Autogen agents with NO coding!",
+      "url": "https://www.youtube.com/watch?v=w29wPOEHedQ",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-18T22:20:33Z",
+      "ingestedAt": "2025-09-24T21:38:31.144Z"
     }
   ]
 }
