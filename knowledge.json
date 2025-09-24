@@ -3068,6 +3068,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-10-12T20:11:22Z",
       "ingestedAt": "2025-09-24T21:37:09.780Z"
+    },
+    {
+      "id": "youtube:video:omw1MEvMCo0",
+      "title": "I Built a Personal Assistant AI Agent with No Code in n8n",
+      "url": "https://www.youtube.com/watch?v=omw1MEvMCo0",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-10-12T20:11:11Z",
+      "ingestedAt": "2025-09-24T21:37:10.371Z"
     }
   ]
 }
