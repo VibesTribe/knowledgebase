@@ -5597,6 +5597,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-11-09T02:44:55Z",
       "ingestedAt": "2025-09-24T21:40:10.521Z"
+    },
+    {
+      "id": "youtube:video:ymGQkp_C1t0",
+      "title": "How to use New OpenAI DevDay features - GPT4V x TTS demo tutorial",
+      "url": "https://www.youtube.com/watch?v=ymGQkp_C1t0",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-11-08T18:25:45Z",
+      "ingestedAt": "2025-09-24T21:40:11.138Z"
     }
   ]
 }
