@@ -2249,6 +2249,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-02-18T01:39:27Z",
       "ingestedAt": "2025-09-24T21:36:10.756Z"
+    },
+    {
+      "id": "youtube:video:we2VJhfTVxU",
+      "title": "Grow Your Newsletter With n8n AI Agents",
+      "url": "https://www.youtube.com/watch?v=we2VJhfTVxU",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-02-18T01:06:23Z",
+      "ingestedAt": "2025-09-24T21:36:11.546Z"
     }
   ]
 }
