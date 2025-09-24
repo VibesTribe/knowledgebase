@@ -4526,6 +4526,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-05T22:15:27Z",
       "ingestedAt": "2025-09-24T21:38:54.639Z"
+    },
+    {
+      "id": "youtube:video:WOTCViHmsOw",
+      "title": "Run 70Bn Llama 3 Inference on a Single 4GB GPU",
+      "url": "https://www.youtube.com/watch?v=WOTCViHmsOw",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-05T16:37:56Z",
+      "ingestedAt": "2025-09-24T21:38:55.293Z"
     }
   ]
 }
