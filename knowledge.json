@@ -5687,6 +5687,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-11-04T03:12:56Z",
       "ingestedAt": "2025-09-24T21:40:17.966Z"
+    },
+    {
+      "id": "youtube:video:nPG_jKrSpi0",
+      "title": "Advanced RAG with Knowledge Graphs (Neo4J demo)",
+      "url": "https://www.youtube.com/watch?v=nPG_jKrSpi0",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-11-04T03:11:29Z",
+      "ingestedAt": "2025-09-24T21:40:18.586Z"
     }
   ]
 }
