@@ -6038,6 +6038,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-10-03T23:00:29Z",
       "ingestedAt": "2025-09-24T21:40:42.902Z"
+    },
+    {
+      "id": "youtube:video:yhBiVrigWNI",
+      "title": "AI agent manages community 24/7 - Build Agent workforce ep#1",
+      "url": "https://www.youtube.com/watch?v=yhBiVrigWNI",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-10-03T14:21:13Z",
+      "ingestedAt": "2025-09-24T21:40:43.515Z"
     }
   ]
 }
