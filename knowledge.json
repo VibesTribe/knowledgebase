@@ -3356,6 +3356,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-09-27T01:59:26Z",
       "ingestedAt": "2025-09-24T21:37:31.397Z"
+    },
+    {
+      "id": "youtube:video:NLb0Ab_xa5g",
+      "title": "Getting Started With Meta Llama 3.2 And its Variants With Groq And Huggingface",
+      "url": "https://www.youtube.com/watch?v=NLb0Ab_xa5g",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-09-26T19:52:37Z",
+      "ingestedAt": "2025-09-24T21:37:32.218Z"
     }
   ]
 }
