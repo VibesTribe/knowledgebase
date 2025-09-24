@@ -4904,6 +4904,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-04-06T00:34:35Z",
       "ingestedAt": "2025-09-24T21:39:20.932Z"
+    },
+    {
+      "id": "youtube:video:dRTLjQHfjSM",
+      "title": "I'm Building a 100% Private AI-Powered Voice Assistant - Say Hello, HomeX!",
+      "url": "https://www.youtube.com/watch?v=dRTLjQHfjSM",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-04-02T23:24:25Z",
+      "ingestedAt": "2025-09-24T21:39:21.575Z"
     }
   ]
 }
