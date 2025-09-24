@@ -4004,6 +4004,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-27T02:07:16Z",
       "ingestedAt": "2025-09-24T21:38:17.450Z"
+    },
+    {
+      "id": "youtube:video:XUEkRX7ybfU",
+      "title": "GPT-4o auto generates html landing pages from Streamlit webapp",
+      "url": "https://www.youtube.com/watch?v=XUEkRX7ybfU",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-24T14:19:05Z",
+      "ingestedAt": "2025-09-24T21:38:18.049Z"
     }
   ]
 }
