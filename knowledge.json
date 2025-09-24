@@ -5066,6 +5066,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-03-13T05:07:44Z",
       "ingestedAt": "2025-09-24T21:39:32.508Z"
+    },
+    {
+      "id": "youtube:video:WxYC9-hBM_g",
+      "title": "Run your own AI (but private)",
+      "url": "https://www.youtube.com/watch?v=WxYC9-hBM_g",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-03-13T04:06:41Z",
+      "ingestedAt": "2025-09-24T21:39:33.144Z"
     }
   ]
 }
