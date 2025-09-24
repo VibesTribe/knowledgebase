@@ -1835,6 +1835,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-04-03T05:35:35Z",
       "ingestedAt": "2025-09-24T21:35:39.802Z"
+    },
+    {
+      "id": "youtube:video:qGolOV98oS0",
+      "title": "Build a MCP Client with Gemini 2.5 Pro: Here's How",
+      "url": "https://www.youtube.com/watch?v=qGolOV98oS0",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-04-03T05:28:19Z",
+      "ingestedAt": "2025-09-24T21:35:40.456Z"
     }
   ]
 }
