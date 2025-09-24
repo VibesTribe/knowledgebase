@@ -3347,6 +3347,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-09-27T02:03:07Z",
       "ingestedAt": "2025-09-24T21:37:30.826Z"
+    },
+    {
+      "id": "youtube:video:XQ7wNqbB1x8",
+      "title": "The ULTIMATE Local AI Setup: LLMs, Qdrant, n8n (NO CODE!!)",
+      "url": "https://www.youtube.com/watch?v=XQ7wNqbB1x8",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-09-27T01:59:26Z",
+      "ingestedAt": "2025-09-24T21:37:31.397Z"
     }
   ]
 }
