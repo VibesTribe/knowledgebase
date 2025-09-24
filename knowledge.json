@@ -4328,6 +4328,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-13T03:28:10Z",
       "ingestedAt": "2025-09-24T21:38:40.759Z"
+    },
+    {
+      "id": "youtube:video:PZVCSQ1yjq4",
+      "title": "System Design has never been easier",
+      "url": "https://www.youtube.com/watch?v=PZVCSQ1yjq4",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-13T03:13:09Z",
+      "ingestedAt": "2025-09-24T21:38:41.354Z"
     }
   ]
 }
