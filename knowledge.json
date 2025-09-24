@@ -5804,6 +5804,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-10-21T14:39:47Z",
       "ingestedAt": "2025-09-24T21:40:26.328Z"
+    },
+    {
+      "id": "youtube:video:X6dna0O6pCw",
+      "title": "XAgent: AutoGen 2.0? An Autonomous Agent for Complex Task Solving (Installation Tutorial)",
+      "url": "https://www.youtube.com/watch?v=X6dna0O6pCw",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-10-20T02:28:58Z",
+      "ingestedAt": "2025-09-24T21:40:26.923Z"
     }
   ]
 }
