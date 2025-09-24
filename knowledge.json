@@ -296,6 +296,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-08-19T05:06:41Z",
       "ingestedAt": "2025-09-24T21:33:46.655Z"
+    },
+    {
+      "id": "youtube:video:YGRO2FHOOCU",
+      "title": "The BEST n8n RAG System for Unreal Performance (LightRAG No Code Guide)",
+      "url": "https://www.youtube.com/watch?v=YGRO2FHOOCU",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-08-19T18:22:05Z",
+      "ingestedAt": "2025-09-24T21:33:47.234Z"
     }
   ]
 }
