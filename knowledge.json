@@ -1592,6 +1592,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-05-02T19:33:52Z",
       "ingestedAt": "2025-09-24T21:35:22.443Z"
+    },
+    {
+      "id": "youtube:video:qV7xOEKEBDA",
+      "title": "How I Automated Product Videography with AI (Step by Step n8n Tutorial)",
+      "url": "https://www.youtube.com/watch?v=qV7xOEKEBDA",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-04-29T00:50:38Z",
+      "ingestedAt": "2025-09-24T21:35:23.057Z"
     }
   ]
 }
