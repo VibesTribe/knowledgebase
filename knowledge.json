@@ -4301,6 +4301,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-13T14:40:31Z",
       "ingestedAt": "2025-09-24T21:38:39.052Z"
+    },
+    {
+      "id": "youtube:video:Cd6f86zsAyg",
+      "title": "Ollama can run LLMs in parallel!",
+      "url": "https://www.youtube.com/watch?v=Cd6f86zsAyg",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-13T04:26:45Z",
+      "ingestedAt": "2025-09-24T21:38:39.644Z"
     }
   ]
 }
