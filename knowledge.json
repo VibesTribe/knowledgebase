@@ -1520,6 +1520,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-05-06T23:16:53Z",
       "ingestedAt": "2025-09-24T21:35:16.810Z"
+    },
+    {
+      "id": "youtube:video:ZoyPqXvnnZ8",
+      "title": "I Built the Ultimate RAG MCP Server for AI Coding (Better than Context7)",
+      "url": "https://www.youtube.com/watch?v=ZoyPqXvnnZ8",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-05-06T02:59:05Z",
+      "ingestedAt": "2025-09-24T21:35:17.818Z"
     }
   ]
 }
