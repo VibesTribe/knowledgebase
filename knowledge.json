@@ -4310,6 +4310,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-13T04:26:45Z",
       "ingestedAt": "2025-09-24T21:38:39.644Z"
+    },
+    {
+      "id": "youtube:video:CWLxxRxYRu0",
+      "title": "Transform Ollama AI with Llama3 LLM into a Speaking Genius",
+      "url": "https://www.youtube.com/watch?v=CWLxxRxYRu0",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-13T04:22:49Z",
+      "ingestedAt": "2025-09-24T21:38:40.204Z"
     }
   ]
 }
