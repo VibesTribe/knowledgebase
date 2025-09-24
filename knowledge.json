@@ -1511,6 +1511,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-05-18T03:21:51Z",
       "ingestedAt": "2025-09-24T21:35:16.196Z"
+    },
+    {
+      "id": "youtube:video:gwCQF--cARA",
+      "title": "This AI Agent Picks Its Own Brain (10x Cheaper, n8n)",
+      "url": "https://www.youtube.com/watch?v=gwCQF--cARA",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-05-06T23:16:53Z",
+      "ingestedAt": "2025-09-24T21:35:16.810Z"
     }
   ]
 }
