@@ -2321,6 +2321,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-02-16T20:57:56Z",
       "ingestedAt": "2025-09-24T21:36:16.323Z"
+    },
+    {
+      "id": "youtube:video:5zhTxuuPc3A",
+      "title": "I Built an AI Voice Travel Agent with ElevenLabs and n8n (Free Template)",
+      "url": "https://www.youtube.com/watch?v=5zhTxuuPc3A",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-02-16T20:56:02Z",
+      "ingestedAt": "2025-09-24T21:36:17.015Z"
     }
   ]
 }
