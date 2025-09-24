@@ -4085,6 +4085,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-21T16:56:51Z",
       "ingestedAt": "2025-09-24T21:38:23.380Z"
+    },
+    {
+      "id": "youtube:video:0bPBUjlc3dE",
+      "title": "Verba: This Easy-to-Install RAG Chatbot is better than ChatGPT (works w/ Ollama, OpenAI, Gemini)",
+      "url": "https://www.youtube.com/watch?v=0bPBUjlc3dE",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-21T16:34:33Z",
+      "ingestedAt": "2025-09-24T21:38:23.938Z"
     }
   ]
 }
