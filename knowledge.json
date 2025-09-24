@@ -5552,6 +5552,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-11-11T03:30:19Z",
       "ingestedAt": "2025-09-24T21:40:07.336Z"
+    },
+    {
+      "id": "youtube:video:0lYLjqJblB4",
+      "title": "Automate Your Agency Client Onboarding with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=0lYLjqJblB4",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-11-11T03:24:56Z",
+      "ingestedAt": "2025-09-24T21:40:08.085Z"
     }
   ]
 }
