@@ -134,6 +134,15 @@
       "collectionId": "59987361",
       "createdAt": "2025-09-21T19:27:30.021Z",
       "ingestedAt": "2025-09-24T21:33:34.883Z"
+    },
+    {
+      "id": "raindrop:1350039872",
+      "title": "I Wasted 100 Hours Debugging AI Code. These 2 Rules Would've Saved Me. - YouTube",
+      "url": "https://www.youtube.com/watch?v=oiOiX2FkXJo&list=LL&index=17",
+      "sourceType": "raindrop",
+      "collectionId": "59987361",
+      "createdAt": "2025-09-20T02:40:35.568Z",
+      "ingestedAt": "2025-09-24T21:33:35.543Z"
     }
   ]
 }
