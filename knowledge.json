@@ -404,6 +404,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-08-21T04:35:16Z",
       "ingestedAt": "2025-09-24T21:33:54.166Z"
+    },
+    {
+      "id": "youtube:video:LV0jRVXtx80",
+      "title": "HiRAG: Hierarchical Reasoning for GraphRAG (BEST RAG?)",
+      "url": "https://www.youtube.com/watch?v=LV0jRVXtx80",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-08-23T03:12:18Z",
+      "ingestedAt": "2025-09-24T21:33:54.852Z"
     }
   ]
 }
