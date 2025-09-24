@@ -4373,6 +4373,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-11T13:45:16Z",
       "ingestedAt": "2025-09-24T21:38:43.586Z"
+    },
+    {
+      "id": "youtube:video:l00VBUXl1Q4",
+      "title": "Dive Into Gen AI: YouTube Video Summarizer",
+      "url": "https://www.youtube.com/watch?v=l00VBUXl1Q4",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-11T00:51:13Z",
+      "ingestedAt": "2025-09-24T21:38:44.178Z"
     }
   ]
 }
