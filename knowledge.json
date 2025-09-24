@@ -5750,6 +5750,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-10-30T03:21:56Z",
       "ingestedAt": "2025-09-24T21:40:22.286Z"
+    },
+    {
+      "id": "youtube:video:PUPO2tTyPOo",
+      "title": "AutoGen Advanced Tutorial - Build Incredible AI AGENT Teams",
+      "url": "https://www.youtube.com/watch?v=PUPO2tTyPOo",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-10-29T18:10:07Z",
+      "ingestedAt": "2025-09-24T21:40:22.886Z"
     }
   ]
 }
