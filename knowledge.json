@@ -359,6 +359,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-08-20T22:09:51Z",
       "ingestedAt": "2025-09-24T21:33:51.089Z"
+    },
+    {
+      "id": "youtube:video:lb5ZNeOtjFc",
+      "title": "Let's Vibe Code A Backend With 5 Simple Steps (Beginner's Only)",
+      "url": "https://www.youtube.com/watch?v=lb5ZNeOtjFc",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-08-20T23:23:36Z",
+      "ingestedAt": "2025-09-24T21:33:51.648Z"
     }
   ]
 }
