@@ -4031,6 +4031,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-23T02:37:28Z",
       "ingestedAt": "2025-09-24T21:38:19.432Z"
+    },
+    {
+      "id": "youtube:video:B0g0FWqWSLg",
+      "title": "Streaming AI Assistant on FlutterFlow with BuildShip Template",
+      "url": "https://www.youtube.com/watch?v=B0g0FWqWSLg",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-22T03:46:21Z",
+      "ingestedAt": "2025-09-24T21:38:20.066Z"
     }
   ]
 }
