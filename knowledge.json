@@ -1277,6 +1277,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-08-05T16:01:11Z",
       "ingestedAt": "2025-09-24T21:34:58.184Z"
+    },
+    {
+      "id": "youtube:video:vpyllOeLhs4",
+      "title": "Building an AI Agent Swarm in n8n Just Got So Easy",
+      "url": "https://www.youtube.com/watch?v=vpyllOeLhs4",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-08-05T16:00:58Z",
+      "ingestedAt": "2025-09-24T21:34:58.808Z"
     }
   ]
 }
