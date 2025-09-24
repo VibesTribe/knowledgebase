@@ -710,6 +710,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-09-10T03:56:02Z",
       "ingestedAt": "2025-09-24T21:34:16.928Z"
+    },
+    {
+      "id": "youtube:video:iPFn-nypVUk",
+      "title": "Using Claude Code For Self-Documenting Features (3 Levels)",
+      "url": "https://www.youtube.com/watch?v=iPFn-nypVUk",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-09-12T04:25:41Z",
+      "ingestedAt": "2025-09-24T21:34:17.454Z"
     }
   ]
 }
