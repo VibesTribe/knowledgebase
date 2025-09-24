@@ -4742,6 +4742,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-04-27T13:48:19Z",
       "ingestedAt": "2025-09-24T21:39:09.954Z"
+    },
+    {
+      "id": "youtube:video:J2sbC8X5Pp8",
+      "title": "World’s Fastest Talking AI: Deepgram + Groq",
+      "url": "https://www.youtube.com/watch?v=J2sbC8X5Pp8",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-04-25T02:01:31Z",
+      "ingestedAt": "2025-09-24T21:39:10.688Z"
     }
   ]
 }
