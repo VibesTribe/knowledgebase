@@ -269,6 +269,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-08-15T20:34:36Z",
       "ingestedAt": "2025-09-24T21:33:44.650Z"
+    },
+    {
+      "id": "youtube:video:QTm2XmAWwBA",
+      "title": "Vibe Coding Builder Face Off: See Who Survived",
+      "url": "https://www.youtube.com/watch?v=QTm2XmAWwBA",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-08-15T23:36:54Z",
+      "ingestedAt": "2025-09-24T21:33:45.339Z"
     }
   ]
 }
