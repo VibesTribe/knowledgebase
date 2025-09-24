@@ -611,6 +611,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-09-01T23:00:59Z",
       "ingestedAt": "2025-09-24T21:34:08.710Z"
+    },
+    {
+      "id": "youtube:video:D92aDGVFcRE",
+      "title": "7 Fatal Mistakes with MCP That Kill AI Projects",
+      "url": "https://www.youtube.com/watch?v=D92aDGVFcRE",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-09-03T18:08:23Z",
+      "ingestedAt": "2025-09-24T21:34:09.648Z"
     }
   ]
 }
