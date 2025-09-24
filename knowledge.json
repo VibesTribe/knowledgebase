@@ -2933,6 +2933,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-10-21T02:33:18Z",
       "ingestedAt": "2025-09-24T21:37:00.119Z"
+    },
+    {
+      "id": "youtube:video:JyolNYRbAcs",
+      "title": "Build a FULL Stack App for your n8n AI Agent in 20 Minutes",
+      "url": "https://www.youtube.com/watch?v=JyolNYRbAcs",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-10-15T22:19:59Z",
+      "ingestedAt": "2025-09-24T21:37:00.706Z"
     }
   ]
 }
