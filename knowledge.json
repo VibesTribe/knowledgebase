@@ -206,6 +206,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-08-15T01:46:04Z",
       "ingestedAt": "2025-09-24T21:33:39.840Z"
+    },
+    {
+      "id": "youtube:video:i0P56Pm1Q3U",
+      "title": "I Reverse-Engineered Claude Code: Learn These Agent Tricks",
+      "url": "https://www.youtube.com/watch?v=i0P56Pm1Q3U",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-08-15T01:46:17Z",
+      "ingestedAt": "2025-09-24T21:33:40.501Z"
     }
   ]
 }
