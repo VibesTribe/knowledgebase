@@ -782,6 +782,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-09-17T17:29:04Z",
       "ingestedAt": "2025-09-24T21:34:21.687Z"
+    },
+    {
+      "id": "youtube:video:KdaclhjWGI8",
+      "title": "Claude Code + n8n = Easy AI Agent MVP?",
+      "url": "https://www.youtube.com/watch?v=KdaclhjWGI8",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-09-21T19:37:39Z",
+      "ingestedAt": "2025-09-24T21:34:22.255Z"
     }
   ]
 }
