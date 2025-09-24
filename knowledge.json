@@ -4580,6 +4580,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-05T01:39:29Z",
       "ingestedAt": "2025-09-24T21:38:58.218Z"
+    },
+    {
+      "id": "youtube:video:anIBtQNn1G0",
+      "title": "End-to-end Prototyping with Llama 3 and Hugging Face Inference Endpoints",
+      "url": "https://www.youtube.com/watch?v=anIBtQNn1G0",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-05T00:21:31Z",
+      "ingestedAt": "2025-09-24T21:38:58.764Z"
     }
   ]
 }
