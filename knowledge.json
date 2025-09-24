@@ -62,6 +62,15 @@
       "collectionId": "59987361",
       "createdAt": "2025-09-22T16:10:02.958Z",
       "ingestedAt": "2025-09-24T21:33:29.989Z"
+    },
+    {
+      "id": "raindrop:1353831072",
+      "title": "agency-ai-solutions/agency-starter-template",
+      "url": "https://github.com/agency-ai-solutions/agency-starter-template",
+      "sourceType": "raindrop",
+      "collectionId": "59987361",
+      "createdAt": "2025-09-22T16:09:48.255Z",
+      "ingestedAt": "2025-09-24T21:33:30.777Z"
     }
   ]
 }
