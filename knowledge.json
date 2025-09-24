@@ -5030,6 +5030,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-03-19T18:15:38Z",
       "ingestedAt": "2025-09-24T21:39:30.040Z"
+    },
+    {
+      "id": "youtube:video:aWnNJdiza3k",
+      "title": "Building an AI Sales Bot to Call Leads For Me LIVE",
+      "url": "https://www.youtube.com/watch?v=aWnNJdiza3k",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-03-16T15:27:09Z",
+      "ingestedAt": "2025-09-24T21:39:30.694Z"
     }
   ]
 }
