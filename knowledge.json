@@ -2978,6 +2978,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-10-15T18:46:29Z",
       "ingestedAt": "2025-09-24T21:37:03.535Z"
+    },
+    {
+      "id": "youtube:video:oageL-1I0GE",
+      "title": "LightRAG: A More Efficient Solution than GraphRAG for RAG Systems?",
+      "url": "https://www.youtube.com/watch?v=oageL-1I0GE",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-10-15T16:13:10Z",
+      "ingestedAt": "2025-09-24T21:37:04.167Z"
     }
   ]
 }
