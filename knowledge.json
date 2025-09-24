@@ -4346,6 +4346,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-11T17:19:38Z",
       "ingestedAt": "2025-09-24T21:38:41.959Z"
+    },
+    {
+      "id": "youtube:video:a329vAPgpaE",
+      "title": "Secrets to Self-Hosting Ollama on a Remote Server",
+      "url": "https://www.youtube.com/watch?v=a329vAPgpaE",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-11T15:28:20Z",
+      "ingestedAt": "2025-09-24T21:38:42.493Z"
     }
   ]
 }
