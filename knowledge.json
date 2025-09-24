@@ -3779,6 +3779,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-06-03T21:02:54Z",
       "ingestedAt": "2025-09-24T21:38:01.476Z"
+    },
+    {
+      "id": "youtube:video:uEduh6ANplc",
+      "title": "The best way to publish your RAG application (Vercel + Modal)",
+      "url": "https://www.youtube.com/watch?v=uEduh6ANplc",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-06-03T19:06:44Z",
+      "ingestedAt": "2025-09-24T21:38:02.137Z"
     }
   ]
 }
