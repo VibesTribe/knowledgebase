@@ -1439,6 +1439,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-06-15T05:05:01Z",
       "ingestedAt": "2025-09-24T21:35:10.503Z"
+    },
+    {
+      "id": "youtube:video:98Xfte2V9-Y",
+      "title": "I Built Multi Agent AI Coding System This Weekend (Aider, Augment, Grok, Gemini, Docker)",
+      "url": "https://www.youtube.com/watch?v=98Xfte2V9-Y",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-06-10T19:41:32Z",
+      "ingestedAt": "2025-09-24T21:35:11.193Z"
     }
   ]
 }
