@@ -2699,6 +2699,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-01-09T03:37:53Z",
       "ingestedAt": "2025-09-24T21:36:43.549Z"
+    },
+    {
+      "id": "youtube:video:H95JMlU2XAI",
+      "title": "I Built An ElevenLabs Clone With NO CODE (BOLT + n8n Challenge)",
+      "url": "https://www.youtube.com/watch?v=H95JMlU2XAI",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-01-02T05:51:19Z",
+      "ingestedAt": "2025-09-24T21:36:44.294Z"
     }
   ]
 }
