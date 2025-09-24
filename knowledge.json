@@ -3104,6 +3104,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-10-10T00:27:28Z",
       "ingestedAt": "2025-09-24T21:37:12.556Z"
+    },
+    {
+      "id": "youtube:video:WeYM3dn_XvM",
+      "title": "How AI Designs Computer Chips",
+      "url": "https://www.youtube.com/watch?v=WeYM3dn_XvM",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-10-09T23:26:37Z",
+      "ingestedAt": "2025-09-24T21:37:13.221Z"
     }
   ]
 }
