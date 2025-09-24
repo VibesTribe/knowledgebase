@@ -746,6 +746,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-09-14T16:53:22Z",
       "ingestedAt": "2025-09-24T21:34:19.311Z"
+    },
+    {
+      "id": "youtube:video:R4I_YaFYv3M",
+      "title": "“I want ChatGPT with infinite local memory” - Here’s how",
+      "url": "https://www.youtube.com/watch?v=R4I_YaFYv3M",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-09-15T18:01:44Z",
+      "ingestedAt": "2025-09-24T21:34:19.954Z"
     }
   ]
 }
