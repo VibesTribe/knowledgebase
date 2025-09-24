@@ -4913,6 +4913,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-04-02T23:24:25Z",
       "ingestedAt": "2025-09-24T21:39:21.575Z"
+    },
+    {
+      "id": "youtube:video:dKD4a_sv69o",
+      "title": "OpenDevin Tutorial (Open-Source Devin) - Build Entire Apps From a Single Prompt",
+      "url": "https://www.youtube.com/watch?v=dKD4a_sv69o",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-03-31T03:01:57Z",
+      "ingestedAt": "2025-09-24T21:39:22.223Z"
     }
   ]
 }
