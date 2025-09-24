@@ -5849,6 +5849,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-10-18T02:31:22Z",
       "ingestedAt": "2025-09-24T21:40:29.646Z"
+    },
+    {
+      "id": "youtube:video:G7rXlZR68SQ",
+      "title": "Go Production:  ⚡️ Super FAST LLM (API) Serving with vLLM !!!",
+      "url": "https://www.youtube.com/watch?v=G7rXlZR68SQ",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-10-18T01:32:56Z",
+      "ingestedAt": "2025-09-24T21:40:30.348Z"
     }
   ]
 }
