@@ -143,6 +143,15 @@
       "collectionId": "59987361",
       "createdAt": "2025-09-20T02:40:35.568Z",
       "ingestedAt": "2025-09-24T21:33:35.543Z"
+    },
+    {
+      "id": "raindrop:1350036359",
+      "title": "Rapid iteration with Repo Prompt",
+      "url": "https://www.youtube.com/watch?v=LSQBi0Vx3Y4",
+      "sourceType": "raindrop",
+      "collectionId": "59987361",
+      "createdAt": "2025-09-20T02:26:55.030Z",
+      "ingestedAt": "2025-09-24T21:33:36.137Z"
     }
   ]
 }
