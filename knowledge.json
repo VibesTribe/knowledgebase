@@ -3086,6 +3086,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-10-12T20:11:00Z",
       "ingestedAt": "2025-09-24T21:37:11.071Z"
+    },
+    {
+      "id": "youtube:video:YSYX3_nz7P8",
+      "title": "I Built OpenAi’s Personal AI Agent in 1 HOUR using No code",
+      "url": "https://www.youtube.com/watch?v=YSYX3_nz7P8",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-10-12T14:17:56Z",
+      "ingestedAt": "2025-09-24T21:37:11.735Z"
     }
   ]
 }
