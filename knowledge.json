@@ -998,6 +998,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-09-01T21:08:11Z",
       "ingestedAt": "2025-09-24T21:34:37.158Z"
+    },
+    {
+      "id": "youtube:video:zRr24Mku3r4",
+      "title": "n8n: How to build AI agents that don't break",
+      "url": "https://www.youtube.com/watch?v=zRr24Mku3r4",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-09-01T18:27:44Z",
+      "ingestedAt": "2025-09-24T21:34:37.851Z"
     }
   ]
 }
