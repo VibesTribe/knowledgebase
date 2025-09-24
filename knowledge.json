@@ -3014,6 +3014,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-10-14T22:19:55Z",
       "ingestedAt": "2025-09-24T21:37:06.117Z"
+    },
+    {
+      "id": "youtube:video:uY0IzoJABqU",
+      "title": "UI Design Process With AI",
+      "url": "https://www.youtube.com/watch?v=uY0IzoJABqU",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-10-14T18:56:38Z",
+      "ingestedAt": "2025-09-24T21:37:06.784Z"
     }
   ]
 }
