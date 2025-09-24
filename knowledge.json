@@ -1493,6 +1493,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-05-24T04:12:51Z",
       "ingestedAt": "2025-09-24T21:35:14.677Z"
+    },
+    {
+      "id": "youtube:video:szGFppZgSI0",
+      "title": "STOP Using Basic n8n Nodes! These 10 Will Change Everything",
+      "url": "https://www.youtube.com/watch?v=szGFppZgSI0",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-05-20T00:33:01Z",
+      "ingestedAt": "2025-09-24T21:35:15.299Z"
     }
   ]
 }
