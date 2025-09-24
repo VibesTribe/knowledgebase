@@ -170,6 +170,24 @@
       "collectionId": "59987361",
       "createdAt": "2025-09-20T01:26:05.621Z",
       "ingestedAt": "2025-09-24T21:33:37.369Z"
+    },
+    {
+      "id": "raindrop:1348752482",
+      "title": "NEW AI Coding Agents for SWE: ENTROPY",
+      "url": "https://www.youtube.com/watch?v=e6-EMh69OJs",
+      "sourceType": "raindrop",
+      "collectionId": "59987361",
+      "createdAt": "2025-09-18T15:58:16.753Z",
+      "ingestedAt": "2025-09-24T21:33:38.009Z"
+    },
+    {
+      "id": "youtube:video:eMX7JZytTd0",
+      "title": "How to Fix ANY Bug in Lovable, Bolt or Replit (And Escape the AI Bug Doom Loop)",
+      "url": "https://www.youtube.com/watch?v=eMX7JZytTd0",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-08-15T01:44:57Z",
+      "ingestedAt": "2025-09-24T21:33:38.605Z"
     }
   ]
 }
