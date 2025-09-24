@@ -5768,6 +5768,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-10-23T16:26:13Z",
       "ingestedAt": "2025-09-24T21:40:23.570Z"
+    },
+    {
+      "id": "youtube:video:9Hrfx6kw1IE",
+      "title": "AIbitat - Multi-Agent Conversation Framework In TypeScript",
+      "url": "https://www.youtube.com/watch?v=9Hrfx6kw1IE",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-10-23T02:57:09Z",
+      "ingestedAt": "2025-09-24T21:40:24.271Z"
     }
   ]
 }
