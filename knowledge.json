@@ -5867,6 +5867,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-10-18T01:22:13Z",
       "ingestedAt": "2025-09-24T21:40:30.958Z"
+    },
+    {
+      "id": "youtube:video:_u-nbanYz8E",
+      "title": "ChatGPT Merged with RPA (Genta Automation)",
+      "url": "https://www.youtube.com/watch?v=_u-nbanYz8E",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-10-17T23:03:48Z",
+      "ingestedAt": "2025-09-24T21:40:31.575Z"
     }
   ]
 }
