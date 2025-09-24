@@ -656,6 +656,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-09-05T20:58:48Z",
       "ingestedAt": "2025-09-24T21:34:12.895Z"
+    },
+    {
+      "id": "youtube:video:SP-b_G74Nuk",
+      "title": "Agentic AI Project in LangGraph | Build Loveable Clone",
+      "url": "https://www.youtube.com/watch?v=SP-b_G74Nuk",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-09-07T19:04:40Z",
+      "ingestedAt": "2025-09-24T21:34:13.524Z"
     }
   ]
 }
