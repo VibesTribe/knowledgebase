@@ -2942,6 +2942,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-10-15T22:19:59Z",
       "ingestedAt": "2025-09-24T21:37:00.706Z"
+    },
+    {
+      "id": "youtube:video:JUx2ZfNfD64",
+      "title": "I Built an AI Agent that Automated my Inbox with n8n (No Code)",
+      "url": "https://www.youtube.com/watch?v=JUx2ZfNfD64",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-10-15T21:15:02Z",
+      "ingestedAt": "2025-09-24T21:37:01.277Z"
     }
   ]
 }
