@@ -3869,6 +3869,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-29T13:13:55Z",
       "ingestedAt": "2025-09-24T21:38:08.127Z"
+    },
+    {
+      "id": "youtube:video:pi6gr_YHSuc",
+      "title": "Build a ChatGPT-4o Voice Assistant with Groq, Llama3, OpenAI-TTS & Faster-Whisper",
+      "url": "https://www.youtube.com/watch?v=pi6gr_YHSuc",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-29T12:15:57Z",
+      "ingestedAt": "2025-09-24T21:38:08.801Z"
     }
   ]
 }
