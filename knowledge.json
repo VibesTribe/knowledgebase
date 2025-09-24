@@ -4139,6 +4139,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-19T17:57:11Z",
       "ingestedAt": "2025-09-24T21:38:27.087Z"
+    },
+    {
+      "id": "youtube:video:ti3b1dFCAo4",
+      "title": "Guidance: Towards Controlling the Output of Large Language Models",
+      "url": "https://www.youtube.com/watch?v=ti3b1dFCAo4",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-19T16:17:38Z",
+      "ingestedAt": "2025-09-24T21:38:27.867Z"
     }
   ]
 }
