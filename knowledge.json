@@ -2240,6 +2240,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-02-21T19:14:35Z",
       "ingestedAt": "2025-09-24T21:36:09.941Z"
+    },
+    {
+      "id": "youtube:video:PdP7jrLh50U",
+      "title": "My Secret Consulting Automation (Free n8n Template)",
+      "url": "https://www.youtube.com/watch?v=PdP7jrLh50U",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-02-18T01:39:27Z",
+      "ingestedAt": "2025-09-24T21:36:10.756Z"
     }
   ]
 }
