@@ -548,6 +548,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-08-27T18:02:27Z",
       "ingestedAt": "2025-09-24T21:34:04.317Z"
+    },
+    {
+      "id": "youtube:video:J5B9UGTuNoM",
+      "title": "I’m HOOKED on Claude Code Hooks: Advanced Agentic Coding",
+      "url": "https://www.youtube.com/watch?v=J5B9UGTuNoM",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-08-27T22:47:23Z",
+      "ingestedAt": "2025-09-24T21:34:05.012Z"
     }
   ]
 }
