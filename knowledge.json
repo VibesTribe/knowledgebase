@@ -2627,6 +2627,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-01-15T01:33:09Z",
       "ingestedAt": "2025-09-24T21:36:38.402Z"
+    },
+    {
+      "id": "youtube:video:XVO3zsHdvio",
+      "title": "Build Everything with AI Agents: Here's How",
+      "url": "https://www.youtube.com/watch?v=XVO3zsHdvio",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-01-15T00:46:47Z",
+      "ingestedAt": "2025-09-24T21:36:39.079Z"
     }
   ]
 }
