@@ -5480,6 +5480,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-11-16T01:16:45Z",
       "ingestedAt": "2025-09-24T21:40:02.067Z"
+    },
+    {
+      "id": "youtube:video:8fMnAZI1bdA",
+      "title": "How to Create Agent Swarms With the NEW OpenAI Assistants API",
+      "url": "https://www.youtube.com/watch?v=8fMnAZI1bdA",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-11-14T22:45:34Z",
+      "ingestedAt": "2025-09-24T21:40:02.676Z"
     }
   ]
 }
