@@ -2069,6 +2069,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-03-11T15:26:33Z",
       "ingestedAt": "2025-09-24T21:35:56.817Z"
+    },
+    {
+      "id": "youtube:video:LZ_FFvr1DZE",
+      "title": "How I Design Beautiful SaaS (Frontend & UI Guide)",
+      "url": "https://www.youtube.com/watch?v=LZ_FFvr1DZE",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-03-09T18:14:38Z",
+      "ingestedAt": "2025-09-24T21:35:57.511Z"
     }
   ]
 }
