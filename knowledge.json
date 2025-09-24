@@ -4616,6 +4616,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-04T01:26:02Z",
       "ingestedAt": "2025-09-24T21:39:00.777Z"
+    },
+    {
+      "id": "youtube:video:VSfehUJUWQY",
+      "title": "🦾 The Cleanest way to write GenAI applications (it's NOT Langchain)",
+      "url": "https://www.youtube.com/watch?v=VSfehUJUWQY",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-03T00:47:58Z",
+      "ingestedAt": "2025-09-24T21:39:01.494Z"
     }
   ]
 }
