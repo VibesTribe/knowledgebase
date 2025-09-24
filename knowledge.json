@@ -4949,6 +4949,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-03-26T18:20:53Z",
       "ingestedAt": "2025-09-24T21:39:24.141Z"
+    },
+    {
+      "id": "youtube:video:MOyl58VF2ak",
+      "title": "The Complete Guide to Building AI Agents for Beginners",
+      "url": "https://www.youtube.com/watch?v=MOyl58VF2ak",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-03-25T02:53:26Z",
+      "ingestedAt": "2025-09-24T21:39:24.829Z"
     }
   ]
 }
