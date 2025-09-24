@@ -3383,6 +3383,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-09-23T01:32:35Z",
       "ingestedAt": "2025-09-24T21:37:33.377Z"
+    },
+    {
+      "id": "youtube:video:xIiBGKUn9s8",
+      "title": "Setup OpenAI API Assistant In n8n w/ HTTP Requests & Thread ID To Maintain Context 🤖",
+      "url": "https://www.youtube.com/watch?v=xIiBGKUn9s8",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-09-21T19:20:22Z",
+      "ingestedAt": "2025-09-24T21:37:34.037Z"
     }
   ]
 }
