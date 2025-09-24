@@ -5732,6 +5732,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-10-31T03:39:05Z",
       "ingestedAt": "2025-09-24T21:40:21.077Z"
+    },
+    {
+      "id": "youtube:video:_IgbB24scLI",
+      "title": "Neo4j Course for Beginners",
+      "url": "https://www.youtube.com/watch?v=_IgbB24scLI",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-10-31T03:38:55Z",
+      "ingestedAt": "2025-09-24T21:40:21.704Z"
     }
   ]
 }
