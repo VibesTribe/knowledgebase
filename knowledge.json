@@ -5579,6 +5579,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-11-10T22:05:38Z",
       "ingestedAt": "2025-09-24T21:40:09.326Z"
+    },
+    {
+      "id": "youtube:video:3HFQsCHxtUw",
+      "title": "Top 50 AI Apps Explained in One Video",
+      "url": "https://www.youtube.com/watch?v=3HFQsCHxtUw",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-11-09T04:13:01Z",
+      "ingestedAt": "2025-09-24T21:40:09.896Z"
     }
   ]
 }
