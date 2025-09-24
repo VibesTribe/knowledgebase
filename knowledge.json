@@ -4931,6 +4931,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-03-29T01:40:54Z",
       "ingestedAt": "2025-09-24T21:39:22.780Z"
+    },
+    {
+      "id": "youtube:video:XkOXNlHJP6M",
+      "title": "SAAS Automation Builder: Clerk Authentication, Neon Tech, Uploadcare, Ngrok, Nextjs 14, Stripe, Bun",
+      "url": "https://www.youtube.com/watch?v=XkOXNlHJP6M",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-03-27T01:43:55Z",
+      "ingestedAt": "2025-09-24T21:39:23.361Z"
     }
   ]
 }
