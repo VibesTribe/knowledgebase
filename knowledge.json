@@ -2960,6 +2960,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-10-15T20:32:39Z",
       "ingestedAt": "2025-09-24T21:37:02.072Z"
+    },
+    {
+      "id": "youtube:video:hwN5qs0CmsE",
+      "title": "n8n Tutorial #6: Using Community Nodes and Custom Code",
+      "url": "https://www.youtube.com/watch?v=hwN5qs0CmsE",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-10-15T20:02:01Z",
+      "ingestedAt": "2025-09-24T21:37:02.913Z"
     }
   ]
 }
