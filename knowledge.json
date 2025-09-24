@@ -3878,6 +3878,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-29T12:15:57Z",
       "ingestedAt": "2025-09-24T21:38:08.801Z"
+    },
+    {
+      "id": "youtube:video:G2CUhnt5Wvo",
+      "title": "How to use the JSON AGGREGATOR in Make (Integromat) to send data to an API",
+      "url": "https://www.youtube.com/watch?v=G2CUhnt5Wvo",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-29T12:12:59Z",
+      "ingestedAt": "2025-09-24T21:38:09.366Z"
     }
   ]
 }
