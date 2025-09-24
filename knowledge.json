@@ -4400,6 +4400,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-10T23:32:48Z",
       "ingestedAt": "2025-09-24T21:38:45.446Z"
+    },
+    {
+      "id": "youtube:video:vRpyZ9yiQ6s",
+      "title": "Refuel LLM 2 - Best Model for Data Labelling, Data Cleaning - Install Locally",
+      "url": "https://www.youtube.com/watch?v=vRpyZ9yiQ6s",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-10T18:42:37Z",
+      "ingestedAt": "2025-09-24T21:38:46.045Z"
     }
   ]
 }
