@@ -17,6 +17,15 @@
       "collectionId": "59987361",
       "createdAt": "2025-09-24T02:19:22.471Z",
       "ingestedAt": "2025-09-24T21:33:26.591Z"
+    },
+    {
+      "id": "raindrop:1356074096",
+      "title": "The Message Every Engineer Needs to Hear",
+      "url": "https://www.youtube.com/watch?v=XKCBcScElBg",
+      "sourceType": "raindrop",
+      "collectionId": "59987361",
+      "createdAt": "2025-09-24T02:17:58.137Z",
+      "ingestedAt": "2025-09-24T21:33:27.159Z"
     }
   ]
 }
