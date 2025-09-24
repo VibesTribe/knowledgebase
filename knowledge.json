@@ -5588,6 +5588,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-11-09T04:13:01Z",
       "ingestedAt": "2025-09-24T21:40:09.896Z"
+    },
+    {
+      "id": "youtube:video:NrQkdDVupQE",
+      "title": "GitHub Universe 2023 opening keynote- Copilot in the Age of AI",
+      "url": "https://www.youtube.com/watch?v=NrQkdDVupQE",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-11-09T02:44:55Z",
+      "ingestedAt": "2025-09-24T21:40:10.521Z"
     }
   ]
 }
