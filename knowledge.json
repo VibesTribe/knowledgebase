@@ -4274,6 +4274,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-13T17:49:32Z",
       "ingestedAt": "2025-09-24T21:38:37.164Z"
+    },
+    {
+      "id": "youtube:video:DQacCB9tDaw",
+      "title": "Introducing GPT-4o",
+      "url": "https://www.youtube.com/watch?v=DQacCB9tDaw",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-13T17:34:32Z",
+      "ingestedAt": "2025-09-24T21:38:37.757Z"
     }
   ]
 }
