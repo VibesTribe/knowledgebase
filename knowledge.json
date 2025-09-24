@@ -899,6 +899,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-09-05T22:10:23Z",
       "ingestedAt": "2025-09-24T21:34:30.017Z"
+    },
+    {
+      "id": "youtube:video:a3SMraZWNNs",
+      "title": "How to Systematically Improve LLM Applications",
+      "url": "https://www.youtube.com/watch?v=a3SMraZWNNs",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-09-05T02:58:48Z",
+      "ingestedAt": "2025-09-24T21:34:30.597Z"
     }
   ]
 }
