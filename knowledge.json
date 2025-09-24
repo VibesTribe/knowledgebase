@@ -5822,6 +5822,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-10-18T23:12:22Z",
       "ingestedAt": "2025-09-24T21:40:27.707Z"
+    },
+    {
+      "id": "youtube:video:uEhDafXA2h4",
+      "title": "Introduction to NestJS Devtools with Kamil Mysliwiec",
+      "url": "https://www.youtube.com/watch?v=uEhDafXA2h4",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-10-18T04:37:52Z",
+      "ingestedAt": "2025-09-24T21:40:28.351Z"
     }
   ]
 }
