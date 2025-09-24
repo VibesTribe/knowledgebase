@@ -1358,6 +1358,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-07-26T23:07:53Z",
       "ingestedAt": "2025-09-24T21:35:04.596Z"
+    },
+    {
+      "id": "youtube:video:Y1Xr3EA7GxE",
+      "title": "Jetson Nano Agentic AI Update + New Case Setup (n8n Bot with Ollama)",
+      "url": "https://www.youtube.com/watch?v=Y1Xr3EA7GxE",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-07-22T22:02:06Z",
+      "ingestedAt": "2025-09-24T21:35:05.303Z"
     }
   ]
 }
