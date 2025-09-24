@@ -467,6 +467,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-08-25T07:04:44Z",
       "ingestedAt": "2025-09-24T21:33:58.518Z"
+    },
+    {
+      "id": "youtube:video:4PlVnrliN3Q",
+      "title": "Agent OS: The System for Spec-Driven Development",
+      "url": "https://www.youtube.com/watch?v=4PlVnrliN3Q",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-08-26T00:28:12Z",
+      "ingestedAt": "2025-09-24T21:33:59.198Z"
     }
   ]
 }
