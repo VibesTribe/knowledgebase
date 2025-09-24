@@ -5669,6 +5669,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-11-06T14:28:40Z",
       "ingestedAt": "2025-09-24T21:40:16.192Z"
+    },
+    {
+      "id": "youtube:video:IH5QO8ebl_0",
+      "title": "Running Rivet in a Node.js/TypeScript App",
+      "url": "https://www.youtube.com/watch?v=IH5QO8ebl_0",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-11-04T03:13:17Z",
+      "ingestedAt": "2025-09-24T21:40:16.830Z"
     }
   ]
 }
