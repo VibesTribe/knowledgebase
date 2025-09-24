@@ -3788,6 +3788,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-06-03T19:06:44Z",
       "ingestedAt": "2025-09-24T21:38:02.137Z"
+    },
+    {
+      "id": "youtube:video:T1IIT0Lwbkg",
+      "title": "Aider + CodeQwen : This AI Pair Programmer is BETTER than Github's Copilot (works w/ Ollama, OpenAI)",
+      "url": "https://www.youtube.com/watch?v=T1IIT0Lwbkg",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-06-03T14:51:33Z",
+      "ingestedAt": "2025-09-24T21:38:02.800Z"
     }
   ]
 }
