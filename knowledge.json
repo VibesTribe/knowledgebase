@@ -4418,6 +4418,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-10T15:24:39Z",
       "ingestedAt": "2025-09-24T21:38:46.746Z"
+    },
+    {
+      "id": "youtube:video:aljGLeP9GOY",
+      "title": "stunspot's Guide To the OpenAI Playground",
+      "url": "https://www.youtube.com/watch?v=aljGLeP9GOY",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-10T03:12:21Z",
+      "ingestedAt": "2025-09-24T21:38:47.445Z"
     }
   ]
 }
