@@ -4058,6 +4058,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-22T03:00:13Z",
       "ingestedAt": "2025-09-24T21:38:21.382Z"
+    },
+    {
+      "id": "youtube:video:i8TMhnKDJpI",
+      "title": "Using Llama 3 in n8n with Cloudflare Workers AI",
+      "url": "https://www.youtube.com/watch?v=i8TMhnKDJpI",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-21T18:17:43Z",
+      "ingestedAt": "2025-09-24T21:38:22.028Z"
     }
   ]
 }
