@@ -5624,6 +5624,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-11-07T20:03:13Z",
       "ingestedAt": "2025-09-24T21:40:12.727Z"
+    },
+    {
+      "id": "youtube:video:Tr-nweUiggI",
+      "title": "Learn AI Engineer Skills for Beginners: First Project - Chat with YouTube",
+      "url": "https://www.youtube.com/watch?v=Tr-nweUiggI",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-11-07T18:15:42Z",
+      "ingestedAt": "2025-09-24T21:40:13.344Z"
     }
   ]
 }
