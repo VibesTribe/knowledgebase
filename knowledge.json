@@ -3122,6 +3122,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-10-09T03:26:34Z",
       "ingestedAt": "2025-09-24T21:37:14.076Z"
+    },
+    {
+      "id": "youtube:video:xsCedrNP9w8",
+      "title": "Chat with Multiple/Large SQL and Vector Databases using LLM agents (Combine RAG and SQL-Agents)",
+      "url": "https://www.youtube.com/watch?v=xsCedrNP9w8",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-10-08T23:26:07Z",
+      "ingestedAt": "2025-09-24T21:37:14.712Z"
     }
   ]
 }
