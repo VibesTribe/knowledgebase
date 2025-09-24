@@ -3986,6 +3986,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-27T23:36:14Z",
       "ingestedAt": "2025-09-24T21:38:16.309Z"
+    },
+    {
+      "id": "youtube:video:NZbgduKl9Zk",
+      "title": "I Built an Insanely Complex RAG Flow with LangGraph – You Won't Believe How Easy It Is",
+      "url": "https://www.youtube.com/watch?v=NZbgduKl9Zk",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-27T17:37:49Z",
+      "ingestedAt": "2025-09-24T21:38:16.894Z"
     }
   ]
 }
