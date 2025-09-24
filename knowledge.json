@@ -1250,6 +1250,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-08-05T16:04:35Z",
       "ingestedAt": "2025-09-24T21:34:56.152Z"
+    },
+    {
+      "id": "youtube:video:3hvNCeWDdKQ",
+      "title": "n8n Full Course: How to Build Custom User Interfaces (Step-by-Step)",
+      "url": "https://www.youtube.com/watch?v=3hvNCeWDdKQ",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-08-05T16:01:45Z",
+      "ingestedAt": "2025-09-24T21:34:56.820Z"
     }
   ]
 }
