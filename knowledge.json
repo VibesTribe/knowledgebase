@@ -2348,6 +2348,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-02-16T20:39:40Z",
       "ingestedAt": "2025-09-24T21:36:18.280Z"
+    },
+    {
+      "id": "youtube:video:tr5_S1FGoUI",
+      "title": "This Trick Helps me Build Agents 3x Faster (as a beginner)",
+      "url": "https://www.youtube.com/watch?v=tr5_S1FGoUI",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-02-13T03:52:23Z",
+      "ingestedAt": "2025-09-24T21:36:18.919Z"
     }
   ]
 }
