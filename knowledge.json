@@ -827,6 +827,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-09-16T01:28:23Z",
       "ingestedAt": "2025-09-24T21:34:24.933Z"
+    },
+    {
+      "id": "youtube:video:R9c_JQrEtu8",
+      "title": "I Built An AI Influencer Automation in N8n that Automatically Posts Videos",
+      "url": "https://www.youtube.com/watch?v=R9c_JQrEtu8",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-09-15T00:46:32Z",
+      "ingestedAt": "2025-09-24T21:34:25.596Z"
     }
   ]
 }
