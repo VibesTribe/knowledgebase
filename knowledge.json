@@ -5147,6 +5147,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-02-02T03:04:03Z",
       "ingestedAt": "2025-09-24T21:39:38.416Z"
+    },
+    {
+      "id": "youtube:video:nBAU7d4d4NU",
+      "title": "How to turn your Custom GPT into a web app that makes $$$",
+      "url": "https://www.youtube.com/watch?v=nBAU7d4d4NU",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-01-31T06:13:20Z",
+      "ingestedAt": "2025-09-24T21:39:39.016Z"
     }
   ]
 }
