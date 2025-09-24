@@ -3842,6 +3842,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-31T00:07:09Z",
       "ingestedAt": "2025-09-24T21:38:06.342Z"
+    },
+    {
+      "id": "youtube:video:zXFxmI9f06M",
+      "title": "Self-correcting code assistants with Codestral",
+      "url": "https://www.youtube.com/watch?v=zXFxmI9f06M",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-30T03:27:25Z",
+      "ingestedAt": "2025-09-24T21:38:06.961Z"
     }
   ]
 }
