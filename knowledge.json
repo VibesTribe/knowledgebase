@@ -1772,6 +1772,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-04-05T14:41:13Z",
       "ingestedAt": "2025-09-24T21:35:35.482Z"
+    },
+    {
+      "id": "youtube:video:lF2bvXoV-Zg",
+      "title": "How I 100% Automated Long Form Content with n8n (free template)",
+      "url": "https://www.youtube.com/watch?v=lF2bvXoV-Zg",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-04-05T14:40:04Z",
+      "ingestedAt": "2025-09-24T21:35:36.195Z"
     }
   ]
 }
