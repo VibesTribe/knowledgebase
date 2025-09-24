@@ -1034,6 +1034,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-08-30T23:15:28Z",
       "ingestedAt": "2025-09-24T21:34:39.783Z"
+    },
+    {
+      "id": "youtube:video:tn0C1VlkkQ4",
+      "title": "Evaluate N8N AI Agents & RAG like a PRO | N8N Evaluation Tutorial",
+      "url": "https://www.youtube.com/watch?v=tn0C1VlkkQ4",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-08-26T18:52:09Z",
+      "ingestedAt": "2025-09-24T21:34:40.475Z"
     }
   ]
 }
