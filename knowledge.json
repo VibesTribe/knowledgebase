@@ -4472,6 +4472,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-08T20:09:45Z",
       "ingestedAt": "2025-09-24T21:38:50.648Z"
+    },
+    {
+      "id": "youtube:video:ylFEoE42S2w",
+      "title": "Llama3 Autonomous RAG",
+      "url": "https://www.youtube.com/watch?v=ylFEoE42S2w",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-08T03:58:48Z",
+      "ingestedAt": "2025-09-24T21:38:51.356Z"
     }
   ]
 }
