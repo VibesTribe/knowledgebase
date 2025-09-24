@@ -224,6 +224,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-08-15T01:46:29Z",
       "ingestedAt": "2025-09-24T21:33:41.174Z"
+    },
+    {
+      "id": "youtube:video:LCYBVpSB0Wo",
+      "title": "I was using sub-agents wrong... Here is my way after 20+ hrs test",
+      "url": "https://www.youtube.com/watch?v=LCYBVpSB0Wo",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-08-15T01:46:50Z",
+      "ingestedAt": "2025-09-24T21:33:41.964Z"
     }
   ]
 }
