@@ -4256,6 +4256,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-15T15:44:07Z",
       "ingestedAt": "2025-09-24T21:38:35.521Z"
+    },
+    {
+      "id": "youtube:video:vEGqCleTHfM",
+      "title": "How to build AI-apps with React + FastAPI (full beginner tutorial)",
+      "url": "https://www.youtube.com/watch?v=vEGqCleTHfM",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-15T04:00:02Z",
+      "ingestedAt": "2025-09-24T21:38:36.561Z"
     }
   ]
 }
