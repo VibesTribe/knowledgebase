@@ -4922,6 +4922,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-03-31T03:01:57Z",
       "ingestedAt": "2025-09-24T21:39:22.223Z"
+    },
+    {
+      "id": "youtube:video:GanTUWLUUWQ",
+      "title": "Answer Engine Tutorial: The Open-Source Perplexity Search Replacement",
+      "url": "https://www.youtube.com/watch?v=GanTUWLUUWQ",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-03-29T01:40:54Z",
+      "ingestedAt": "2025-09-24T21:39:22.780Z"
     }
   ]
 }
