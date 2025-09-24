@@ -4481,6 +4481,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-08T03:58:48Z",
       "ingestedAt": "2025-09-24T21:38:51.356Z"
+    },
+    {
+      "id": "youtube:video:b3XsvoFWp4c",
+      "title": "Build a Customer Support Bot | LangGraph",
+      "url": "https://www.youtube.com/watch?v=b3XsvoFWp4c",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-08T03:52:07Z",
+      "ingestedAt": "2025-09-24T21:38:52.096Z"
     }
   ]
 }
