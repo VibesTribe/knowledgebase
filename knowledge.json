@@ -1763,6 +1763,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-04-06T20:33:40Z",
       "ingestedAt": "2025-09-24T21:35:34.931Z"
+    },
+    {
+      "id": "youtube:video:kUpTUEwKnrk",
+      "title": "Build Anything with Lovable + n8n AI Agents (beginner's guide)",
+      "url": "https://www.youtube.com/watch?v=kUpTUEwKnrk",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-04-05T14:41:13Z",
+      "ingestedAt": "2025-09-24T21:35:35.482Z"
     }
   ]
 }
