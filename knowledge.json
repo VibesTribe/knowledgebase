@@ -4499,6 +4499,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-07T03:54:12Z",
       "ingestedAt": "2025-09-24T21:38:52.715Z"
+    },
+    {
+      "id": "youtube:video:UsuuSgnOJxg",
+      "title": "Setting up Openvoice version 2 and MeloTTS for AI voice cloning",
+      "url": "https://www.youtube.com/watch?v=UsuuSgnOJxg",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-05T22:56:21Z",
+      "ingestedAt": "2025-09-24T21:38:53.431Z"
     }
   ]
 }
