@@ -5174,6 +5174,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-01-31T03:25:01Z",
       "ingestedAt": "2025-09-24T21:39:40.558Z"
+    },
+    {
+      "id": "youtube:video:qcCDCmykqc4",
+      "title": "Auto Interview & evaluate in parallel using observer pattern, queue system, threading",
+      "url": "https://www.youtube.com/watch?v=qcCDCmykqc4",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-01-30T05:40:11Z",
+      "ingestedAt": "2025-09-24T21:39:41.231Z"
     }
   ]
 }
