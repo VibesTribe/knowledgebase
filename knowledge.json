@@ -4796,6 +4796,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-04-24T00:40:35Z",
       "ingestedAt": "2025-09-24T21:39:13.782Z"
+    },
+    {
+      "id": "youtube:video:qaWOwbFw3cs",
+      "title": "LangGraph 101: it's better than LangChain",
+      "url": "https://www.youtube.com/watch?v=qaWOwbFw3cs",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-04-23T17:21:54Z",
+      "ingestedAt": "2025-09-24T21:39:14.309Z"
     }
   ]
 }
