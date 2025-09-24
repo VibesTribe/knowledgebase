@@ -2690,6 +2690,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-01-09T05:10:39Z",
       "ingestedAt": "2025-09-24T21:36:42.822Z"
+    },
+    {
+      "id": "youtube:video:7XZbI_ez8_U",
+      "title": "The GLOW-UP Every AI Agent Needs",
+      "url": "https://www.youtube.com/watch?v=7XZbI_ez8_U",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-01-09T03:37:53Z",
+      "ingestedAt": "2025-09-24T21:36:43.549Z"
     }
   ]
 }
