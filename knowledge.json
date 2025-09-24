@@ -1655,6 +1655,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-04-16T14:32:24Z",
       "ingestedAt": "2025-09-24T21:35:27.151Z"
+    },
+    {
+      "id": "youtube:video:jRDacHChrXc",
+      "title": "n8n Tutorial: Build ANYTHING with MCP Servers in n8n! (Beginner to Pro)",
+      "url": "https://www.youtube.com/watch?v=jRDacHChrXc",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-04-15T20:18:27Z",
+      "ingestedAt": "2025-09-24T21:35:27.716Z"
     }
   ]
 }
