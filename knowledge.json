@@ -5606,6 +5606,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-11-08T18:25:45Z",
       "ingestedAt": "2025-09-24T21:40:11.138Z"
+    },
+    {
+      "id": "youtube:video:D0LI9W1JyXg",
+      "title": "The AI calendar assistant behind Cal.ai",
+      "url": "https://www.youtube.com/watch?v=D0LI9W1JyXg",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-11-08T18:00:16Z",
+      "ingestedAt": "2025-09-24T21:40:12.143Z"
     }
   ]
 }
