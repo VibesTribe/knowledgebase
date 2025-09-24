@@ -1214,6 +1214,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-08-07T03:22:22Z",
       "ingestedAt": "2025-09-24T21:34:53.577Z"
+    },
+    {
+      "id": "youtube:video:l3d7Zw2bbCw",
+      "title": "How to Build Smarter RAG Database Agents (n8n)",
+      "url": "https://www.youtube.com/watch?v=l3d7Zw2bbCw",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-08-07T03:01:31Z",
+      "ingestedAt": "2025-09-24T21:34:54.272Z"
     }
   ]
 }
