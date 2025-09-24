@@ -2591,6 +2591,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-01-20T04:39:51Z",
       "ingestedAt": "2025-09-24T21:36:35.842Z"
+    },
+    {
+      "id": "youtube:video:oyIQenEvWN8",
+      "title": "Web Scraping 101: A Million Dollar SaaS Idea",
+      "url": "https://www.youtube.com/watch?v=oyIQenEvWN8",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-01-19T16:10:25Z",
+      "ingestedAt": "2025-09-24T21:36:36.568Z"
     }
   ]
 }
