@@ -3248,6 +3248,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-10-01T04:00:30Z",
       "ingestedAt": "2025-09-24T21:37:23.033Z"
+    },
+    {
+      "id": "youtube:video:U3SgtCWsjXg",
+      "title": "10 Ways To Use NotebookLM, in Less Than 10 Minutes",
+      "url": "https://www.youtube.com/watch?v=U3SgtCWsjXg",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-10-01T01:23:37Z",
+      "ingestedAt": "2025-09-24T21:37:23.662Z"
     }
   ]
 }
