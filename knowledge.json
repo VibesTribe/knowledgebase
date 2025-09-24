@@ -3617,6 +3617,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-08-07T00:15:18Z",
       "ingestedAt": "2025-09-24T21:37:50.056Z"
+    },
+    {
+      "id": "youtube:video:zDK6CGBLfMY",
+      "title": "CANCEL Your Monthly API Subscriptions (Build Your Own)",
+      "url": "https://www.youtube.com/watch?v=zDK6CGBLfMY",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-08-06T16:50:27Z",
+      "ingestedAt": "2025-09-24T21:37:50.753Z"
     }
   ]
 }
