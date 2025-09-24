@@ -458,6 +458,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-08-25T01:18:52Z",
       "ingestedAt": "2025-09-24T21:33:57.831Z"
+    },
+    {
+      "id": "youtube:video:v5To64sNCLE",
+      "title": "⚡Generate a Working MCP Server in 30 Seconds (Cookie Cutter Template)",
+      "url": "https://www.youtube.com/watch?v=v5To64sNCLE",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-08-25T07:04:44Z",
+      "ingestedAt": "2025-09-24T21:33:58.518Z"
     }
   ]
 }
