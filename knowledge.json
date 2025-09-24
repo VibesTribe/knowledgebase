@@ -4598,6 +4598,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-04T23:43:43Z",
       "ingestedAt": "2025-09-24T21:38:59.392Z"
+    },
+    {
+      "id": "youtube:video:5p7bDN0BFlA",
+      "title": "AI is sometimes the only solution | The Prompt with Trevor Noah",
+      "url": "https://www.youtube.com/watch?v=5p7bDN0BFlA",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-04T01:33:54Z",
+      "ingestedAt": "2025-09-24T21:39:00.095Z"
     }
   ]
 }
