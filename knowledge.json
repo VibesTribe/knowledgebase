@@ -6065,6 +6065,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-10-02T20:42:48Z",
       "ingestedAt": "2025-09-24T21:40:44.857Z"
+    },
+    {
+      "id": "youtube:video:f4LeWlt3T8Y",
+      "title": "Advanced RAG 01 - Self Querying Retrieval",
+      "url": "https://www.youtube.com/watch?v=f4LeWlt3T8Y",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-10-01T15:41:26Z",
+      "ingestedAt": "2025-09-24T21:40:45.482Z"
     }
   ]
 }
