@@ -3095,6 +3095,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-10-12T14:17:56Z",
       "ingestedAt": "2025-09-24T21:37:11.735Z"
+    },
+    {
+      "id": "youtube:video:T1ZKEmDN8AA",
+      "title": "Effortless RAG in n8n - Use ALL Your Files (PDFs, Excel, and More)",
+      "url": "https://www.youtube.com/watch?v=T1ZKEmDN8AA",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-10-10T00:27:28Z",
+      "ingestedAt": "2025-09-24T21:37:12.556Z"
     }
   ]
 }
