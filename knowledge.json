@@ -5984,6 +5984,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-10-07T04:17:21Z",
       "ingestedAt": "2025-09-24T21:40:39.243Z"
+    },
+    {
+      "id": "youtube:video:fAEH2ZBO6BA",
+      "title": "The AI magic behind Open v0 ✨ - the AI that writes React Tailwind components",
+      "url": "https://www.youtube.com/watch?v=fAEH2ZBO6BA",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-10-06T13:53:08Z",
+      "ingestedAt": "2025-09-24T21:40:39.816Z"
     }
   ]
 }
