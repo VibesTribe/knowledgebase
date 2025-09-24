@@ -1754,6 +1754,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-04-07T23:45:11Z",
       "ingestedAt": "2025-09-24T21:35:33.992Z"
+    },
+    {
+      "id": "youtube:video:AFY67zOpbSo",
+      "title": "This AI Explains ANY Codebase in 5 Minutes - Here is How I Built it",
+      "url": "https://www.youtube.com/watch?v=AFY67zOpbSo",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-04-06T20:33:40Z",
+      "ingestedAt": "2025-09-24T21:35:34.931Z"
     }
   ]
 }
