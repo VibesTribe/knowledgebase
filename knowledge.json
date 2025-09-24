@@ -4022,6 +4022,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-23T03:50:57Z",
       "ingestedAt": "2025-09-24T21:38:18.765Z"
+    },
+    {
+      "id": "youtube:video:jZIZX70mPpo",
+      "title": "OpenUI & Llama 3: Effortless Text to Frontend UI Generation",
+      "url": "https://www.youtube.com/watch?v=jZIZX70mPpo",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-23T02:37:28Z",
+      "ingestedAt": "2025-09-24T21:38:19.432Z"
     }
   ]
 }
