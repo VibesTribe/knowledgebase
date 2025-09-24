@@ -3698,6 +3698,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-06-27T18:17:09Z",
       "ingestedAt": "2025-09-24T21:37:55.851Z"
+    },
+    {
+      "id": "youtube:video:QKNVPHm3G70",
+      "title": "Building AI Agents from Scratch, Simplified",
+      "url": "https://www.youtube.com/watch?v=QKNVPHm3G70",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-06-17T02:38:13Z",
+      "ingestedAt": "2025-09-24T21:37:56.544Z"
     }
   ]
 }
