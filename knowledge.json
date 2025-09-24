@@ -2267,6 +2267,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-02-17T02:24:10Z",
       "ingestedAt": "2025-09-24T21:36:12.324Z"
+    },
+    {
+      "id": "youtube:video:4KjBFNKKGVQ",
+      "title": "Deleted video",
+      "url": "https://www.youtube.com/watch?v=4KjBFNKKGVQ",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-02-17T01:53:48Z",
+      "ingestedAt": "2025-09-24T21:36:13.166Z"
     }
   ]
 }
