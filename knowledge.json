@@ -2231,6 +2231,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-02-22T01:15:48Z",
       "ingestedAt": "2025-09-24T21:36:09.244Z"
+    },
+    {
+      "id": "youtube:video:2wZng5fqsTo",
+      "title": "DeepSeek: What It Means For The Future Of AI",
+      "url": "https://www.youtube.com/watch?v=2wZng5fqsTo",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-02-21T19:14:35Z",
+      "ingestedAt": "2025-09-24T21:36:09.941Z"
     }
   ]
 }
