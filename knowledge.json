@@ -3167,6 +3167,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-10-08T01:21:53Z",
       "ingestedAt": "2025-09-24T21:37:17.442Z"
+    },
+    {
+      "id": "youtube:video:EmQEZwIxyNg",
+      "title": "n8n AI Agents Masterclass | Complete guide to all AI nodes in N8N",
+      "url": "https://www.youtube.com/watch?v=EmQEZwIxyNg",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-10-05T20:08:36Z",
+      "ingestedAt": "2025-09-24T21:37:18.085Z"
     }
   ]
 }
