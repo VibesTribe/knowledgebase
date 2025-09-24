@@ -3959,6 +3959,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-28T03:07:21Z",
       "ingestedAt": "2025-09-24T21:38:14.398Z"
+    },
+    {
+      "id": "youtube:video:lWwiUlYvE0k",
+      "title": "Install AutoCoder on Windows Locally - Surpasses GPT-4o on HumanEval",
+      "url": "https://www.youtube.com/watch?v=lWwiUlYvE0k",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-28T02:15:33Z",
+      "ingestedAt": "2025-09-24T21:38:15.002Z"
     }
   ]
 }
