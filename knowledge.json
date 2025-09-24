@@ -1376,6 +1376,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-07-18T03:40:55Z",
       "ingestedAt": "2025-09-24T21:35:05.941Z"
+    },
+    {
+      "id": "youtube:video:9ijnN985O_c",
+      "title": "I Can SEE EVERYTHING: Claude Code Hooks for Multi Agent Observability",
+      "url": "https://www.youtube.com/watch?v=9ijnN985O_c",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-07-18T01:18:23Z",
+      "ingestedAt": "2025-09-24T21:35:06.424Z"
     }
   ]
 }
