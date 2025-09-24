@@ -3464,6 +3464,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-08-29T02:21:10Z",
       "ingestedAt": "2025-09-24T21:37:39.034Z"
+    },
+    {
+      "id": "youtube:video:Xifzdn7zW3A",
+      "title": "No Code RAG Agents? You HAVE to Check out n8n + LangChain",
+      "url": "https://www.youtube.com/watch?v=Xifzdn7zW3A",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-08-26T02:57:00Z",
+      "ingestedAt": "2025-09-24T21:37:39.618Z"
     }
   ]
 }
