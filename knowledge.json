@@ -431,6 +431,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-08-23T16:07:04Z",
       "ingestedAt": "2025-09-24T21:33:55.989Z"
+    },
+    {
+      "id": "youtube:video:nWARugXmQoI",
+      "title": "Why Are These AI Agents Continuously Failing?",
+      "url": "https://www.youtube.com/watch?v=nWARugXmQoI",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-08-23T16:56:05Z",
+      "ingestedAt": "2025-09-24T21:33:56.604Z"
     }
   ]
 }
