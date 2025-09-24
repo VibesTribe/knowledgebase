@@ -4409,6 +4409,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-10T18:42:37Z",
       "ingestedAt": "2025-09-24T21:38:46.045Z"
+    },
+    {
+      "id": "youtube:video:AVGt3S2jR6U",
+      "title": "Hume two way voice chat with GPT summaries and saved message history",
+      "url": "https://www.youtube.com/watch?v=AVGt3S2jR6U",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-10T15:24:39Z",
+      "ingestedAt": "2025-09-24T21:38:46.746Z"
     }
   ]
 }
