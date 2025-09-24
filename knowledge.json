@@ -3257,6 +3257,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-10-01T01:23:37Z",
       "ingestedAt": "2025-09-24T21:37:23.662Z"
+    },
+    {
+      "id": "youtube:video:fNnmWtf9wYo",
+      "title": "Build Anything with Replit Agent, Here's How",
+      "url": "https://www.youtube.com/watch?v=fNnmWtf9wYo",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-09-30T21:13:50Z",
+      "ingestedAt": "2025-09-24T21:37:25.274Z"
     }
   ]
 }
