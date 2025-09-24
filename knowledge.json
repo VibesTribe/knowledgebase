@@ -1412,6 +1412,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-07-06T18:09:48Z",
       "ingestedAt": "2025-09-24T21:35:08.398Z"
+    },
+    {
+      "id": "youtube:video:snK7uf-QN8U",
+      "title": "Live - Self Host N8N Tutorial - Kokoro TTS - creating SSH - Crawl4ai",
+      "url": "https://www.youtube.com/watch?v=snK7uf-QN8U",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-06-26T05:21:37Z",
+      "ingestedAt": "2025-09-24T21:35:09.093Z"
     }
   ]
 }
