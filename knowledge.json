@@ -530,6 +530,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-08-27T16:17:05Z",
       "ingestedAt": "2025-09-24T21:34:03.064Z"
+    },
+    {
+      "id": "youtube:video:-J3CwrTrAlE",
+      "title": "Repo Prompt 1.4: Presets & Agent Workflows (with GPT-5 Pro)",
+      "url": "https://www.youtube.com/watch?v=-J3CwrTrAlE",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-08-27T17:01:11Z",
+      "ingestedAt": "2025-09-24T21:34:03.629Z"
     }
   ]
 }
