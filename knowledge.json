@@ -5516,6 +5516,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-11-13T05:45:29Z",
       "ingestedAt": "2025-09-24T21:40:04.544Z"
+    },
+    {
+      "id": "youtube:video:TCYgN6R0-RU",
+      "title": "Master OpenAI's Assistant API in Just 15 Mins - Streamlit tutorial to build AI Agents",
+      "url": "https://www.youtube.com/watch?v=TCYgN6R0-RU",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-11-13T03:46:35Z",
+      "ingestedAt": "2025-09-24T21:40:05.260Z"
     }
   ]
 }
