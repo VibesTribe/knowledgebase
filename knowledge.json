@@ -2438,6 +2438,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-02-07T02:19:55Z",
       "ingestedAt": "2025-09-24T21:36:24.695Z"
+    },
+    {
+      "id": "youtube:video:zr98hNrBjCE",
+      "title": "N8N Tutorial: Creating Instructions for AI Agents! (XML + JSON)",
+      "url": "https://www.youtube.com/watch?v=zr98hNrBjCE",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-02-06T19:01:01Z",
+      "ingestedAt": "2025-09-24T21:36:25.415Z"
     }
   ]
 }
