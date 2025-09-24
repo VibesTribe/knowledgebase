@@ -5660,6 +5660,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-11-06T15:38:40Z",
       "ingestedAt": "2025-09-24T21:40:15.512Z"
+    },
+    {
+      "id": "youtube:video:YuRFba27_1w",
+      "title": "Building RAG-based LLM Applications for Production // Philipp Moritz & Yifei Feng // LLMs III Talk",
+      "url": "https://www.youtube.com/watch?v=YuRFba27_1w",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-11-06T14:28:40Z",
+      "ingestedAt": "2025-09-24T21:40:16.192Z"
     }
   ]
 }
