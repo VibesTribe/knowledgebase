@@ -2051,6 +2051,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-03-12T17:34:39Z",
       "ingestedAt": "2025-09-24T21:35:55.468Z"
+    },
+    {
+      "id": "youtube:video:3Jsh4brTjE0",
+      "title": "How to Build and Deploy a Custom MCP Server in 10 Minutes",
+      "url": "https://www.youtube.com/watch?v=3Jsh4brTjE0",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-03-12T15:52:25Z",
+      "ingestedAt": "2025-09-24T21:35:56.172Z"
     }
   ]
 }
