@@ -5246,6 +5246,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-01-16T04:41:44Z",
       "ingestedAt": "2025-09-24T21:39:45.576Z"
+    },
+    {
+      "id": "youtube:video:tZD3-uO0RJ0",
+      "title": "Mamba with Mixture of Experts (MoE-Mamba)!!!",
+      "url": "https://www.youtube.com/watch?v=tZD3-uO0RJ0",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-01-15T07:51:52Z",
+      "ingestedAt": "2025-09-24T21:39:46.258Z"
     }
   ]
 }
