@@ -1691,6 +1691,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-04-11T02:08:42Z",
       "ingestedAt": "2025-09-24T21:35:29.609Z"
+    },
+    {
+      "id": "youtube:video:S724Lg4C_Qc",
+      "title": "Automatically Generate n8n Workflows inside n8n",
+      "url": "https://www.youtube.com/watch?v=S724Lg4C_Qc",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-04-09T14:15:27Z",
+      "ingestedAt": "2025-09-24T21:35:30.322Z"
     }
   ]
 }
