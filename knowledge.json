@@ -3455,6 +3455,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-09-06T16:40:24Z",
       "ingestedAt": "2025-09-24T21:37:38.351Z"
+    },
+    {
+      "id": "youtube:video:V-mrDVg3I8s",
+      "title": "Avante : This is a GREAT Opensource AI Code Editor based on NeoVim (w/ Ollama Support)",
+      "url": "https://www.youtube.com/watch?v=V-mrDVg3I8s",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-08-29T02:21:10Z",
+      "ingestedAt": "2025-09-24T21:37:39.034Z"
     }
   ]
 }
