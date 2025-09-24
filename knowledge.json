@@ -683,6 +683,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-09-07T20:20:47Z",
       "ingestedAt": "2025-09-24T21:34:14.819Z"
+    },
+    {
+      "id": "youtube:video:Kf5-HWJPTIE",
+      "title": "Elite Context Engineering with Claude Code",
+      "url": "https://www.youtube.com/watch?v=Kf5-HWJPTIE",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-09-08T16:45:58Z",
+      "ingestedAt": "2025-09-24T21:34:15.540Z"
     }
   ]
 }
