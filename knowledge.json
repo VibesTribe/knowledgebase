@@ -4265,6 +4265,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-15T04:00:02Z",
       "ingestedAt": "2025-09-24T21:38:36.561Z"
+    },
+    {
+      "id": "youtube:video:vgYi3Wr7v_g",
+      "title": "Say hello to GPT-4o",
+      "url": "https://www.youtube.com/watch?v=vgYi3Wr7v_g",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-13T17:49:32Z",
+      "ingestedAt": "2025-09-24T21:38:37.164Z"
     }
   ]
 }
