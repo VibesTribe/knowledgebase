@@ -2744,6 +2744,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-12-28T18:10:28Z",
       "ingestedAt": "2025-09-24T21:36:46.771Z"
+    },
+    {
+      "id": "youtube:video:aW1qxXLd9yM",
+      "title": "Unraveling Quarks: The Hidden Mysteries of the Quantum World",
+      "url": "https://www.youtube.com/watch?v=aW1qxXLd9yM",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-12-27T02:42:58Z",
+      "ingestedAt": "2025-09-24T21:36:47.365Z"
     }
   ]
 }
