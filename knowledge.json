@@ -5525,6 +5525,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-11-13T03:46:35Z",
       "ingestedAt": "2025-09-24T21:40:05.260Z"
+    },
+    {
+      "id": "youtube:video:wXuSqFJVNQA",
+      "title": "Do NOT Learn Kubernetes Without Knowing These Concepts...",
+      "url": "https://www.youtube.com/watch?v=wXuSqFJVNQA",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-11-13T00:20:52Z",
+      "ingestedAt": "2025-09-24T21:40:05.898Z"
     }
   ]
 }
