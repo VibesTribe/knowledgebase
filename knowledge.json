@@ -2681,6 +2681,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-01-09T05:20:43Z",
       "ingestedAt": "2025-09-24T21:36:42.212Z"
+    },
+    {
+      "id": "youtube:video:spj0n-bFKJo",
+      "title": "NotebookLM - 10 Pro Tips to Boost any Research!",
+      "url": "https://www.youtube.com/watch?v=spj0n-bFKJo",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-01-09T05:10:39Z",
+      "ingestedAt": "2025-09-24T21:36:42.822Z"
     }
   ]
 }
