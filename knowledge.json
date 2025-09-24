@@ -1988,6 +1988,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-03-18T20:31:42Z",
       "ingestedAt": "2025-09-24T21:35:50.812Z"
+    },
+    {
+      "id": "youtube:video:-NrAX4OapkQ",
+      "title": "I Built an AI Agent That Made $2,345 in a Day",
+      "url": "https://www.youtube.com/watch?v=-NrAX4OapkQ",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-03-17T17:58:09Z",
+      "ingestedAt": "2025-09-24T21:35:51.479Z"
     }
   ]
 }
