@@ -494,6 +494,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-08-26T14:16:07Z",
       "ingestedAt": "2025-09-24T21:34:00.464Z"
+    },
+    {
+      "id": "youtube:video:3c4UyGRBnmM",
+      "title": "Breaking down my current tech stack",
+      "url": "https://www.youtube.com/watch?v=3c4UyGRBnmM",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-08-26T15:23:28Z",
+      "ingestedAt": "2025-09-24T21:34:01.129Z"
     }
   ]
 }
