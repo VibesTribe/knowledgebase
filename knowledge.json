@@ -5381,6 +5381,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-12-07T02:25:25Z",
       "ingestedAt": "2025-09-24T21:39:55.062Z"
+    },
+    {
+      "id": "youtube:video:AVInhYBUnKs",
+      "title": "\"Research agent 3.0 - Build a group of AI researchers\" - Here is how",
+      "url": "https://www.youtube.com/watch?v=AVInhYBUnKs",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-12-02T04:36:57Z",
+      "ingestedAt": "2025-09-24T21:39:55.676Z"
     }
   ]
 }
