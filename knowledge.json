@@ -2717,6 +2717,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-01-01T20:37:02Z",
       "ingestedAt": "2025-09-24T21:36:44.894Z"
+    },
+    {
+      "id": "youtube:video:TnTH85-jobE",
+      "title": "KAG Framework SMASHES GraphRAG in Accurate Knowledge Generation",
+      "url": "https://www.youtube.com/watch?v=TnTH85-jobE",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-12-31T06:04:04Z",
+      "ingestedAt": "2025-09-24T21:36:45.572Z"
     }
   ]
 }
