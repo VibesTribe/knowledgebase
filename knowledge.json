@@ -2663,6 +2663,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-01-14T00:25:08Z",
       "ingestedAt": "2025-09-24T21:36:41.027Z"
+    },
+    {
+      "id": "youtube:video:zU6eovES53M",
+      "title": "AI News: Nvidia Stuns CES While OpenAI Teases AGI",
+      "url": "https://www.youtube.com/watch?v=zU6eovES53M",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-01-12T17:32:44Z",
+      "ingestedAt": "2025-09-24T21:36:41.611Z"
     }
   ]
 }
