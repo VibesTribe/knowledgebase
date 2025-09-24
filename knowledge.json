@@ -773,6 +773,15 @@
       "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
       "publishedAt": "2025-09-16T02:08:36Z",
       "ingestedAt": "2025-09-24T21:34:21.147Z"
+    },
+    {
+      "id": "youtube:video:pBJYq3BE7tc",
+      "title": "I Built an MCP Registry Tracker with GitHub Spec Kit",
+      "url": "https://www.youtube.com/watch?v=pBJYq3BE7tc",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u1dw5SiA5NETALRykvP2tn",
+      "publishedAt": "2025-09-17T17:29:04Z",
+      "ingestedAt": "2025-09-24T21:34:21.687Z"
     }
   ]
 }
