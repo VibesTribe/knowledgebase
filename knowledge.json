@@ -4841,6 +4841,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-04-21T02:04:08Z",
       "ingestedAt": "2025-09-24T21:39:16.743Z"
+    },
+    {
+      "id": "youtube:video:JW0IHkYKuFE",
+      "title": "Ethical AI Music Production with Udio and Kits.ai",
+      "url": "https://www.youtube.com/watch?v=JW0IHkYKuFE",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-04-19T14:58:14Z",
+      "ingestedAt": "2025-09-24T21:39:17.320Z"
     }
   ]
 }
