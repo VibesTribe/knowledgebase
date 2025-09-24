@@ -3275,6 +3275,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-09-29T02:37:22Z",
       "ingestedAt": "2025-09-24T21:37:26.048Z"
+    },
+    {
+      "id": "youtube:video:UeFi5oV9UpY",
+      "title": "Step-by-Step Tutorial: Create a RAG Chatbot with n8n AI Agents in MINUTES",
+      "url": "https://www.youtube.com/watch?v=UeFi5oV9UpY",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-09-29T02:37:07Z",
+      "ingestedAt": "2025-09-24T21:37:26.677Z"
     }
   ]
 }
