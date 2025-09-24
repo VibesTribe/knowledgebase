@@ -1862,6 +1862,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2025-04-03T05:27:49Z",
       "ingestedAt": "2025-09-24T21:35:41.736Z"
+    },
+    {
+      "id": "youtube:video:wPgI6kxGnHw",
+      "title": "Set Up MCP Servers in VSCode for GitHub Copilot (Agent Mode) in Just 5 Minutes!",
+      "url": "https://www.youtube.com/watch?v=wPgI6kxGnHw",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2025-04-03T05:27:35Z",
+      "ingestedAt": "2025-09-24T21:35:42.514Z"
     }
   ]
 }
