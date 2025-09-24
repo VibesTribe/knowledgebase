@@ -3680,6 +3680,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-07-04T23:16:58Z",
       "ingestedAt": "2025-09-24T21:37:54.643Z"
+    },
+    {
+      "id": "youtube:video:LPDligp0csg",
+      "title": "I've paid $24 to AI Anthropic Claude 3.5 to write React code. Results are amazing",
+      "url": "https://www.youtube.com/watch?v=LPDligp0csg",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-06-27T18:17:30Z",
+      "ingestedAt": "2025-09-24T21:37:55.229Z"
     }
   ]
 }
