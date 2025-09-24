@@ -3806,6 +3806,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-06-03T02:27:43Z",
       "ingestedAt": "2025-09-24T21:38:03.446Z"
+    },
+    {
+      "id": "youtube:video:o0DPxvgML5c",
+      "title": "LlamaIndex Webinar: Open-Source Longterm Memory for Autonomous Agents",
+      "url": "https://www.youtube.com/watch?v=o0DPxvgML5c",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-06-02T23:09:16Z",
+      "ingestedAt": "2025-09-24T21:38:04.263Z"
     }
   ]
 }
