@@ -4175,6 +4175,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-19T02:25:02Z",
       "ingestedAt": "2025-09-24T21:38:29.825Z"
+    },
+    {
+      "id": "youtube:video:XVTQBV1AlxM",
+      "title": "ChatGPT 4o Interviews Me About Google, Perplexity.AI, and Information Foraging",
+      "url": "https://www.youtube.com/watch?v=XVTQBV1AlxM",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-19T00:49:14Z",
+      "ingestedAt": "2025-09-24T21:38:30.477Z"
     }
   ]
 }
