@@ -2843,6 +2843,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-12-18T01:15:22Z",
       "ingestedAt": "2025-09-24T21:36:53.528Z"
+    },
+    {
+      "id": "youtube:video:m8gj7q_HRo0",
+      "title": "Build an AI Assistant with n8n and Telegram (No Code)",
+      "url": "https://www.youtube.com/watch?v=m8gj7q_HRo0",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-12-16T23:45:12Z",
+      "ingestedAt": "2025-09-24T21:36:54.096Z"
     }
   ]
 }
