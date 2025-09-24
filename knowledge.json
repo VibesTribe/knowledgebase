@@ -4490,6 +4490,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-05-08T03:52:07Z",
       "ingestedAt": "2025-09-24T21:38:52.096Z"
+    },
+    {
+      "id": "youtube:video:9p7mdRO4hRU",
+      "title": "LangChain in 100 Seconds | AutoGPT Tutorials",
+      "url": "https://www.youtube.com/watch?v=9p7mdRO4hRU",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-05-07T03:54:12Z",
+      "ingestedAt": "2025-09-24T21:38:52.715Z"
     }
   ]
 }
