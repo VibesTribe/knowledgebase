@@ -3365,6 +3365,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-09-26T19:52:37Z",
       "ingestedAt": "2025-09-24T21:37:32.218Z"
+    },
+    {
+      "id": "youtube:video:8hAMASB-RpM",
+      "title": "Don't Sleep on the ULTIMATE AI Agent Combo (n8n, LangChain, Python)",
+      "url": "https://www.youtube.com/watch?v=8hAMASB-RpM",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-09-23T01:32:53Z",
+      "ingestedAt": "2025-09-24T21:37:32.776Z"
     }
   ]
 }
