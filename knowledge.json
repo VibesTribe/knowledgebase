@@ -5543,6 +5543,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-11-12T03:25:56Z",
       "ingestedAt": "2025-09-24T21:40:06.601Z"
+    },
+    {
+      "id": "youtube:video:cve5U-RCpHs",
+      "title": "Google Sheets and MySQL integration – Powerful workflow",
+      "url": "https://www.youtube.com/watch?v=cve5U-RCpHs",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-11-11T03:30:19Z",
+      "ingestedAt": "2025-09-24T21:40:07.336Z"
     }
   ]
 }
