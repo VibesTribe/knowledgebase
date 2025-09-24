@@ -5912,6 +5912,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2023-10-14T20:02:03Z",
       "ingestedAt": "2025-09-24T21:40:34.291Z"
+    },
+    {
+      "id": "youtube:video:VL6MAAgwSDM",
+      "title": "Langchain + Qdrant Cloud | Pinecone FREE Alternative (20GB) | Tutorial",
+      "url": "https://www.youtube.com/watch?v=VL6MAAgwSDM",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2023-10-09T16:20:41Z",
+      "ingestedAt": "2025-09-24T21:40:34.832Z"
     }
   ]
 }
