@@ -3185,6 +3185,15 @@
       "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
       "publishedAt": "2024-10-03T17:48:14Z",
       "ingestedAt": "2025-09-24T21:37:18.736Z"
+    },
+    {
+      "id": "youtube:video:x1tam0Fhymc",
+      "title": "*LIVE BUILD* Inbox Management AI Agent with n8n (NO CODE, Step-by-Step Tutorial)",
+      "url": "https://www.youtube.com/watch?v=x1tam0Fhymc",
+      "sourceType": "youtube",
+      "playlistId": "PLYbEaHqVPm4u_91Nd4IHzyv4i2mKf0xPq",
+      "publishedAt": "2024-10-02T19:21:23Z",
+      "ingestedAt": "2025-09-24T21:37:19.315Z"
     }
   ]
 }
